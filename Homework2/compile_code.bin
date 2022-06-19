@@ -1,0 +1,1 @@
+gcc -o producer_consumer producer_consumer.c -lpthread -lrt

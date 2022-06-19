@@ -1,0 +1,4000 @@
+[producer #0] produces 108	Buffer [108, 0, 0, 0, 0, ]
+The buffer has 1 data now
+[producer #1] produces 117	Buffer [108, 117, 0, 0, 0, ]
+The buffer has 2 data now
+[producer #2] produces 159	Buffer [108, 117, 159, 0, 0, ]
+The buffer has 3 data now
+[consumer #0] consumes 108	Buffer [-1, 117, 159, 0, 0, ]
+The buffer has 2 data now
+[producer #4] produces 185	Buffer [-1, 117, 159, 185, 0, ]
+The buffer has 3 data now
+[producer #0] produces 172	Buffer [-1, 117, 159, 185, 172, ]
+The buffer has 4 data now
+[producer #3] produces 228	Buffer [228, 117, 159, 185, 172, ]
+The buffer has 5 data now
+[consumer #2] consumes 117	Buffer [228, -1, 159, 185, 172, ]
+The buffer has 4 data now
+[consumer #0] consumes 159	Buffer [228, -1, -1, 185, 172, ]
+The buffer has 3 data now
+[producer #1] produces 4	Buffer [228, 4, -1, 185, 172, ]
+The buffer has 4 data now
+[consumer #1] consumes 185	Buffer [228, 4, -1, -1, 172, ]
+The buffer has 3 data now
+[producer #0] produces 52	Buffer [228, 4, 52, -1, 172, ]
+The buffer has 4 data now
+[producer #2] produces 236	Buffer [228, 4, 52, 236, 172, ]
+The buffer has 5 data now
+[consumer #0] consumes 172	Buffer [228, 4, 52, 236, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 228	Buffer [-1, 4, 52, 236, -1, ]
+The buffer has 3 data now
+[producer #4] produces 133	Buffer [-1, 4, 52, 236, 133, ]
+The buffer has 4 data now
+[consumer #2] consumes 4	Buffer [-1, -1, 52, 236, 133, ]
+The buffer has 3 data now
+[producer #0] produces 26	Buffer [26, -1, 52, 236, 133, ]
+The buffer has 4 data now
+[producer #3] produces 226	Buffer [26, 226, 52, 236, 133, ]
+The buffer has 5 data now
+[consumer #1] consumes 52	Buffer [26, 226, -1, 236, 133, ]
+The buffer has 4 data now
+[consumer #4] consumes 236	Buffer [26, 226, -1, -1, 133, ]
+The buffer has 3 data now
+[producer #1] produces 16	Buffer [26, 226, 16, -1, 133, ]
+The buffer has 4 data now
+[consumer #0] consumes 133	Buffer [26, 226, 16, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 26	Buffer [-1, 226, 16, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 208	Buffer [-1, 226, 16, 208, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 226	Buffer [-1, -1, 16, 208, -1, ]
+The buffer has 2 data now
+[producer #3] produces 171	Buffer [-1, -1, 16, 208, 171, ]
+The buffer has 3 data now
+[producer #2] produces 234	Buffer [234, -1, 16, 208, 171, ]
+The buffer has 4 data now
+[consumer #4] consumes 16	Buffer [234, -1, -1, 208, 171, ]
+The buffer has 3 data now
+[producer #4] produces 76	Buffer [234, 76, -1, 208, 171, ]
+The buffer has 4 data now
+[consumer #0] consumes 208	Buffer [234, 76, -1, -1, 171, ]
+The buffer has 3 data now
+[producer #3] produces 28	Buffer [234, 76, 28, -1, 171, ]
+The buffer has 4 data now
+[consumer #1] consumes 171	Buffer [234, 76, 28, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 234	Buffer [-1, 76, 28, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 157	Buffer [-1, 76, 28, 157, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 76	Buffer [-1, -1, 28, 157, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 28	Buffer [-1, -1, -1, 157, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 157	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 132	Buffer [-1, -1, -1, -1, 132, ]
+The buffer has 1 data now
+[producer #3] produces 132	Buffer [132, -1, -1, -1, 132, ]
+The buffer has 2 data now
+[consumer #2] consumes 132	Buffer [132, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 23	Buffer [132, 23, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 132	Buffer [-1, 23, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 23	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 45	Buffer [-1, -1, 45, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 45	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 253	Buffer [-1, -1, -1, 253, -1, ]
+The buffer has 1 data now
+[producer #2] produces 132	Buffer [-1, -1, -1, 253, 132, ]
+The buffer has 2 data now
+[producer #4] produces 54	Buffer [54, -1, -1, 253, 132, ]
+The buffer has 3 data now
+[consumer #0] consumes 253	Buffer [54, -1, -1, -1, 132, ]
+The buffer has 2 data now
+[producer #1] produces 91	Buffer [54, 91, -1, -1, 132, ]
+The buffer has 3 data now
+[producer #3] produces 121	Buffer [54, 91, 121, -1, 132, ]
+The buffer has 4 data now
+[consumer #2] consumes 132	Buffer [54, 91, 121, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 54	Buffer [-1, 91, 121, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 91	Buffer [-1, -1, 121, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 96	Buffer [-1, -1, 121, 96, -1, ]
+The buffer has 2 data now
+[producer #4] produces 122	Buffer [-1, -1, 121, 96, 122, ]
+The buffer has 3 data now
+[producer #1] produces 51	Buffer [51, -1, 121, 96, 122, ]
+The buffer has 4 data now
+[producer #2] produces 140	Buffer [51, 140, 121, 96, 122, ]
+The buffer has 5 data now
+[consumer #1] consumes 121	Buffer [51, 140, -1, 96, 122, ]
+The buffer has 4 data now
+[consumer #0] consumes 96	Buffer [51, 140, -1, -1, 122, ]
+The buffer has 3 data now
+[consumer #3] consumes 122	Buffer [51, 140, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 222	Buffer [51, 140, 222, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 205	Buffer [51, 140, 222, 205, -1, ]
+The buffer has 4 data now
+[producer #0] produces 124	Buffer [51, 140, 222, 205, 124, ]
+The buffer has 5 data now
+[consumer #2] consumes 51	Buffer [-1, 140, 222, 205, 124, ]
+The buffer has 4 data now
+[consumer #0] consumes 140	Buffer [-1, -1, 222, 205, 124, ]
+The buffer has 3 data now
+[producer #4] produces 98	Buffer [98, -1, 222, 205, 124, ]
+The buffer has 4 data now
+[producer #2] produces 93	Buffer [98, 93, 222, 205, 124, ]
+The buffer has 5 data now
+[consumer #3] consumes 222	Buffer [98, 93, -1, 205, 124, ]
+The buffer has 4 data now
+[consumer #1] consumes 205	Buffer [98, 93, -1, -1, 124, ]
+The buffer has 3 data now
+[consumer #2] consumes 124	Buffer [98, 93, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 176	Buffer [98, 93, 176, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 79	Buffer [98, 93, 176, 79, -1, ]
+The buffer has 4 data now
+[producer #3] produces 84	Buffer [98, 93, 176, 79, 84, ]
+The buffer has 5 data now
+[consumer #4] consumes 98	Buffer [-1, 93, 176, 79, 84, ]
+The buffer has 4 data now
+[consumer #0] consumes 93	Buffer [-1, -1, 176, 79, 84, ]
+The buffer has 3 data now
+[producer #0] produces 181	Buffer [181, -1, 176, 79, 84, ]
+The buffer has 4 data now
+[producer #1] produces 233	Buffer [181, 233, 176, 79, 84, ]
+The buffer has 5 data now
+[consumer #2] consumes 176	Buffer [181, 233, -1, 79, 84, ]
+The buffer has 4 data now
+[consumer #3] consumes 79	Buffer [181, 233, -1, -1, 84, ]
+The buffer has 3 data now
+[producer #2] produces 55	Buffer [181, 233, 55, -1, 84, ]
+The buffer has 4 data now
+[consumer #1] consumes 84	Buffer [181, 233, 55, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 197	Buffer [181, 233, 55, 197, -1, ]
+The buffer has 4 data now
+[producer #3] produces 58	Buffer [181, 233, 55, 197, 58, ]
+The buffer has 5 data now
+[consumer #0] consumes 181	Buffer [-1, 233, 55, 197, 58, ]
+The buffer has 4 data now
+[consumer #1] consumes 233	Buffer [-1, -1, 55, 197, 58, ]
+The buffer has 3 data now
+[producer #3] produces 226	Buffer [226, -1, 55, 197, 58, ]
+The buffer has 4 data now
+[producer #1] produces 49	Buffer [226, 49, 55, 197, 58, ]
+The buffer has 5 data now
+[consumer #4] consumes 55	Buffer [226, 49, -1, 197, 58, ]
+The buffer has 4 data now
+[consumer #2] consumes 197	Buffer [226, 49, -1, -1, 58, ]
+The buffer has 3 data now
+[consumer #3] consumes 58	Buffer [226, 49, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 6	Buffer [226, 49, 6, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 126	Buffer [226, 49, 6, 126, -1, ]
+The buffer has 4 data now
+[producer #2] produces 206	Buffer [226, 49, 6, 126, 206, ]
+The buffer has 5 data now
+[consumer #2] consumes 226	Buffer [-1, 49, 6, 126, 206, ]
+The buffer has 4 data now
+[consumer #0] consumes 49	Buffer [-1, -1, 6, 126, 206, ]
+The buffer has 3 data now
+[producer #3] produces 11	Buffer [11, -1, 6, 126, 206, ]
+The buffer has 4 data now
+[consumer #4] consumes 6	Buffer [11, -1, -1, 126, 206, ]
+The buffer has 3 data now
+[consumer #0] consumes 126	Buffer [11, -1, -1, -1, 206, ]
+The buffer has 2 data now
+[consumer #1] consumes 206	Buffer [11, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 4	Buffer [11, 4, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 229	Buffer [11, 4, 229, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 56	Buffer [11, 4, 229, 56, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 11	Buffer [-1, 4, 229, 56, -1, ]
+The buffer has 3 data now
+[producer #3] produces 129	Buffer [-1, 4, 229, 56, 129, ]
+The buffer has 4 data now
+[consumer #0] consumes 4	Buffer [-1, -1, 229, 56, 129, ]
+The buffer has 3 data now
+[producer #4] produces 233	Buffer [233, -1, 229, 56, 129, ]
+The buffer has 4 data now
+[consumer #2] consumes 229	Buffer [233, -1, -1, 56, 129, ]
+The buffer has 3 data now
+[consumer #1] consumes 56	Buffer [233, -1, -1, -1, 129, ]
+The buffer has 2 data now
+[producer #2] produces 237	Buffer [233, 237, -1, -1, 129, ]
+The buffer has 3 data now
+[producer #1] produces 92	Buffer [233, 237, 92, -1, 129, ]
+The buffer has 4 data now
+[consumer #4] consumes 129	Buffer [233, 237, 92, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 100	Buffer [233, 237, 92, 100, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 233	Buffer [-1, 237, 92, 100, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 237	Buffer [-1, -1, 92, 100, -1, ]
+The buffer has 2 data now
+[producer #3] produces 78	Buffer [-1, -1, 92, 100, 78, ]
+The buffer has 3 data now
+[producer #0] produces 214	Buffer [214, -1, 92, 100, 78, ]
+The buffer has 4 data now
+[consumer #0] consumes 92	Buffer [214, -1, -1, 100, 78, ]
+The buffer has 3 data now
+[producer #1] produces 23	Buffer [214, 23, -1, 100, 78, ]
+The buffer has 4 data now
+[consumer #1] consumes 100	Buffer [214, 23, -1, -1, 78, ]
+The buffer has 3 data now
+[consumer #3] consumes 78	Buffer [214, 23, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 91	Buffer [214, 23, 91, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 54	Buffer [214, 23, 91, 54, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 214	Buffer [-1, 23, 91, 54, -1, ]
+The buffer has 3 data now
+[producer #3] produces 100	Buffer [-1, 23, 91, 54, 100, ]
+The buffer has 4 data now
+[producer #0] produces 215	Buffer [215, 23, 91, 54, 100, ]
+The buffer has 5 data now
+[consumer #1] consumes 23	Buffer [215, -1, 91, 54, 100, ]
+The buffer has 4 data now
+[consumer #3] consumes 91	Buffer [215, -1, -1, 54, 100, ]
+The buffer has 3 data now
+[producer #0] produces 152	Buffer [215, 152, -1, 54, 100, ]
+The buffer has 4 data now
+[consumer #2] consumes 54	Buffer [215, 152, -1, -1, 100, ]
+The buffer has 3 data now
+[consumer #0] consumes 100	Buffer [215, 152, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 194	Buffer [215, 152, 194, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 215	Buffer [-1, 152, 194, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 8	Buffer [-1, 152, 194, 8, -1, ]
+The buffer has 3 data now
+[producer #3] produces 104	Buffer [-1, 152, 194, 8, 104, ]
+The buffer has 4 data now
+[consumer #2] consumes 152	Buffer [-1, -1, 194, 8, 104, ]
+The buffer has 3 data now
+[consumer #3] consumes 194	Buffer [-1, -1, -1, 8, 104, ]
+The buffer has 2 data now
+[producer #4] produces 23	Buffer [23, -1, -1, 8, 104, ]
+The buffer has 3 data now
+[consumer #0] consumes 8	Buffer [23, -1, -1, -1, 104, ]
+The buffer has 2 data now
+[producer #1] produces 190	Buffer [23, 190, -1, -1, 104, ]
+The buffer has 3 data now
+[producer #0] produces 209	Buffer [23, 190, 209, -1, 104, ]
+The buffer has 4 data now
+[consumer #2] consumes 104	Buffer [23, 190, 209, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 78	Buffer [23, 190, 209, 78, -1, ]
+The buffer has 4 data now
+[producer #2] produces 4	Buffer [23, 190, 209, 78, 4, ]
+The buffer has 5 data now
+[consumer #1] consumes 23	Buffer [-1, 190, 209, 78, 4, ]
+The buffer has 4 data now
+[consumer #3] consumes 190	Buffer [-1, -1, 209, 78, 4, ]
+The buffer has 3 data now
+[consumer #0] consumes 209	Buffer [-1, -1, -1, 78, 4, ]
+The buffer has 2 data now
+[producer #4] produces 12	Buffer [12, -1, -1, 78, 4, ]
+The buffer has 3 data now
+[producer #2] produces 176	Buffer [12, 176, -1, 78, 4, ]
+The buffer has 4 data now
+[consumer #2] consumes 78	Buffer [12, 176, -1, -1, 4, ]
+The buffer has 3 data now
+[consumer #4] consumes 4	Buffer [12, 176, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 53	Buffer [12, 176, 53, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 19	Buffer [12, 176, 53, 19, -1, ]
+The buffer has 4 data now
+[producer #0] produces 48	Buffer [12, 176, 53, 19, 48, ]
+The buffer has 5 data now
+[consumer #0] consumes 12	Buffer [-1, 176, 53, 19, 48, ]
+The buffer has 4 data now
+[consumer #3] consumes 176	Buffer [-1, -1, 53, 19, 48, ]
+The buffer has 3 data now
+[consumer #1] consumes 53	Buffer [-1, -1, -1, 19, 48, ]
+The buffer has 2 data now
+[consumer #2] consumes 19	Buffer [-1, -1, -1, -1, 48, ]
+The buffer has 1 data now
+[consumer #0] consumes 48	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 131	Buffer [131, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 157	Buffer [131, 157, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 179	Buffer [131, 157, 179, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 131	Buffer [-1, 157, 179, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 157	Buffer [-1, -1, 179, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 179	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 233	Buffer [-1, -1, -1, 233, -1, ]
+The buffer has 1 data now
+[producer #0] produces 213	Buffer [-1, -1, -1, 233, 213, ]
+The buffer has 2 data now
+[producer #3] produces 53	Buffer [53, -1, -1, 233, 213, ]
+The buffer has 3 data now
+[producer #4] produces 211	Buffer [53, 211, -1, 233, 213, ]
+The buffer has 4 data now
+[consumer #4] consumes 233	Buffer [53, 211, -1, -1, 213, ]
+The buffer has 3 data now
+[consumer #0] consumes 213	Buffer [53, 211, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 53	Buffer [-1, 211, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 211	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 67	Buffer [-1, -1, 67, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 145	Buffer [-1, -1, 67, 145, -1, ]
+The buffer has 2 data now
+[producer #1] produces 183	Buffer [-1, -1, 67, 145, 183, ]
+The buffer has 3 data now
+[producer #0] produces 145	Buffer [145, -1, 67, 145, 183, ]
+The buffer has 4 data now
+[consumer #4] consumes 67	Buffer [145, -1, -1, 145, 183, ]
+The buffer has 3 data now
+[consumer #2] consumes 145	Buffer [145, -1, -1, -1, 183, ]
+The buffer has 2 data now
+[producer #2] produces 231	Buffer [145, 231, -1, -1, 183, ]
+The buffer has 3 data now
+[producer #3] produces 207	Buffer [145, 231, 207, -1, 183, ]
+The buffer has 4 data now
+[consumer #3] consumes 183	Buffer [145, 231, 207, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 145	Buffer [-1, 231, 207, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 231	Buffer [-1, -1, 207, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 108	Buffer [-1, -1, 207, 108, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 207	Buffer [-1, -1, -1, 108, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 108	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 157	Buffer [-1, -1, -1, -1, 157, ]
+The buffer has 1 data now
+[producer #4] produces 52	Buffer [52, -1, -1, -1, 157, ]
+The buffer has 2 data now
+[consumer #3] consumes 157	Buffer [52, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 195	Buffer [52, 195, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 182	Buffer [52, 195, 182, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 52	Buffer [-1, 195, 182, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 246	Buffer [-1, 195, 182, 246, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 195	Buffer [-1, -1, 182, 246, -1, ]
+The buffer has 2 data now
+[producer #4] produces 204	Buffer [-1, -1, 182, 246, 204, ]
+The buffer has 3 data now
+[consumer #0] consumes 182	Buffer [-1, -1, -1, 246, 204, ]
+The buffer has 2 data now
+[consumer #3] consumes 246	Buffer [-1, -1, -1, -1, 204, ]
+The buffer has 1 data now
+[producer #3] produces 31	Buffer [31, -1, -1, -1, 204, ]
+The buffer has 2 data now
+[producer #2] produces 14	Buffer [31, 14, -1, -1, 204, ]
+The buffer has 3 data now
+[producer #0] produces 11	Buffer [31, 14, 11, -1, 204, ]
+The buffer has 4 data now
+[producer #1] produces 112	Buffer [31, 14, 11, 112, 204, ]
+The buffer has 5 data now
+[consumer #1] consumes 204	Buffer [31, 14, 11, 112, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 31	Buffer [-1, 14, 11, 112, -1, ]
+The buffer has 3 data now
+[producer #4] produces 219	Buffer [-1, 14, 11, 112, 219, ]
+The buffer has 4 data now
+[consumer #3] consumes 14	Buffer [-1, -1, 11, 112, 219, ]
+The buffer has 3 data now
+[consumer #2] consumes 11	Buffer [-1, -1, -1, 112, 219, ]
+The buffer has 2 data now
+[producer #3] produces 15	Buffer [15, -1, -1, 112, 219, ]
+The buffer has 3 data now
+[producer #1] produces 124	Buffer [15, 124, -1, 112, 219, ]
+The buffer has 4 data now
+[consumer #0] consumes 112	Buffer [15, 124, -1, -1, 219, ]
+The buffer has 3 data now
+[producer #3] produces 141	Buffer [15, 124, 141, -1, 219, ]
+The buffer has 4 data now
+[consumer #1] consumes 219	Buffer [15, 124, 141, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 196	Buffer [15, 124, 141, 196, -1, ]
+The buffer has 4 data now
+[producer #4] produces 15	Buffer [15, 124, 141, 196, 15, ]
+The buffer has 5 data now
+[consumer #4] consumes 15	Buffer [-1, 124, 141, 196, 15, ]
+The buffer has 4 data now
+[producer #2] produces 61	Buffer [61, 124, 141, 196, 15, ]
+The buffer has 5 data now
+[consumer #3] consumes 124	Buffer [61, -1, 141, 196, 15, ]
+The buffer has 4 data now
+[consumer #2] consumes 141	Buffer [61, -1, -1, 196, 15, ]
+The buffer has 3 data now
+[producer #1] produces 199	Buffer [61, 199, -1, 196, 15, ]
+The buffer has 4 data now
+[consumer #0] consumes 196	Buffer [61, 199, -1, -1, 15, ]
+The buffer has 3 data now
+[producer #3] produces 172	Buffer [61, 199, 172, -1, 15, ]
+The buffer has 4 data now
+[producer #0] produces 240	Buffer [61, 199, 172, 240, 15, ]
+The buffer has 5 data now
+[consumer #1] consumes 15	Buffer [61, 199, 172, 240, -1, ]
+The buffer has 4 data now
+[producer #1] produces 177	Buffer [61, 199, 172, 240, 177, ]
+The buffer has 5 data now
+[consumer #4] consumes 61	Buffer [-1, 199, 172, 240, 177, ]
+The buffer has 4 data now
+[producer #2] produces 2	Buffer [2, 199, 172, 240, 177, ]
+The buffer has 5 data now
+[consumer #3] consumes 199	Buffer [2, -1, 172, 240, 177, ]
+The buffer has 4 data now
+[consumer #0] consumes 172	Buffer [2, -1, -1, 240, 177, ]
+The buffer has 3 data now
+[consumer #2] consumes 240	Buffer [2, -1, -1, -1, 177, ]
+The buffer has 2 data now
+[producer #0] produces 165	Buffer [2, 165, -1, -1, 177, ]
+The buffer has 3 data now
+[producer #3] produces 6	Buffer [2, 165, 6, -1, 177, ]
+The buffer has 4 data now
+[consumer #1] consumes 177	Buffer [2, 165, 6, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 2	Buffer [-1, 165, 6, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 69	Buffer [-1, 165, 6, 69, -1, ]
+The buffer has 3 data now
+[producer #1] produces 182	Buffer [-1, 165, 6, 69, 182, ]
+The buffer has 4 data now
+[consumer #3] consumes 165	Buffer [-1, -1, 6, 69, 182, ]
+The buffer has 3 data now
+[consumer #1] consumes 6	Buffer [-1, -1, -1, 69, 182, ]
+The buffer has 2 data now
+[producer #2] produces 189	Buffer [189, -1, -1, 69, 182, ]
+The buffer has 3 data now
+[consumer #4] consumes 69	Buffer [189, -1, -1, -1, 182, ]
+The buffer has 2 data now
+[producer #4] produces 87	Buffer [189, 87, -1, -1, 182, ]
+The buffer has 3 data now
+[producer #3] produces 30	Buffer [189, 87, 30, -1, 182, ]
+The buffer has 4 data now
+[consumer #1] consumes 182	Buffer [189, 87, 30, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 189	Buffer [-1, 87, 30, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 141	Buffer [-1, 87, 30, 141, -1, ]
+The buffer has 3 data now
+[producer #2] produces 67	Buffer [-1, 87, 30, 141, 67, ]
+The buffer has 4 data now
+[consumer #4] consumes 87	Buffer [-1, -1, 30, 141, 67, ]
+The buffer has 3 data now
+[producer #4] produces 188	Buffer [188, -1, 30, 141, 67, ]
+The buffer has 4 data now
+[consumer #2] consumes 30	Buffer [188, -1, -1, 141, 67, ]
+The buffer has 3 data now
+[producer #1] produces 194	Buffer [188, 194, -1, 141, 67, ]
+The buffer has 4 data now
+[consumer #3] consumes 141	Buffer [188, 194, -1, -1, 67, ]
+The buffer has 3 data now
+[producer #3] produces 8	Buffer [188, 194, 8, -1, 67, ]
+The buffer has 4 data now
+[producer #2] produces 115	Buffer [188, 194, 8, 115, 67, ]
+The buffer has 5 data now
+[consumer #1] consumes 67	Buffer [188, 194, 8, 115, -1, ]
+The buffer has 4 data now
+[producer #0] produces 57	Buffer [188, 194, 8, 115, 57, ]
+The buffer has 5 data now
+[consumer #0] consumes 188	Buffer [-1, 194, 8, 115, 57, ]
+The buffer has 4 data now
+[producer #2] produces 212	Buffer [212, 194, 8, 115, 57, ]
+The buffer has 5 data now
+[consumer #4] consumes 194	Buffer [212, -1, 8, 115, 57, ]
+The buffer has 4 data now
+[consumer #3] consumes 8	Buffer [212, -1, -1, 115, 57, ]
+The buffer has 3 data now
+[consumer #2] consumes 115	Buffer [212, -1, -1, -1, 57, ]
+The buffer has 2 data now
+[producer #4] produces 18	Buffer [212, 18, -1, -1, 57, ]
+The buffer has 3 data now
+[producer #3] produces 199	Buffer [212, 18, 199, -1, 57, ]
+The buffer has 4 data now
+[producer #1] produces 95	Buffer [212, 18, 199, 95, 57, ]
+The buffer has 5 data now
+[consumer #1] consumes 57	Buffer [212, 18, 199, 95, -1, ]
+The buffer has 4 data now
+[producer #2] produces 130	Buffer [212, 18, 199, 95, 130, ]
+The buffer has 5 data now
+[consumer #4] consumes 212	Buffer [-1, 18, 199, 95, 130, ]
+The buffer has 4 data now
+[consumer #3] consumes 18	Buffer [-1, -1, 199, 95, 130, ]
+The buffer has 3 data now
+[producer #4] produces 163	Buffer [163, -1, 199, 95, 130, ]
+The buffer has 4 data now
+[producer #3] produces 237	Buffer [163, 237, 199, 95, 130, ]
+The buffer has 5 data now
+[consumer #0] consumes 199	Buffer [163, 237, -1, 95, 130, ]
+The buffer has 4 data now
+[producer #0] produces 126	Buffer [163, 237, 126, 95, 130, ]
+The buffer has 5 data now
+[consumer #2] consumes 95	Buffer [163, 237, 126, -1, 130, ]
+The buffer has 4 data now
+[producer #1] produces 49	Buffer [163, 237, 126, 49, 130, ]
+The buffer has 5 data now
+[consumer #1] consumes 130	Buffer [163, 237, 126, 49, -1, ]
+The buffer has 4 data now
+[producer #2] produces 178	Buffer [163, 237, 126, 49, 178, ]
+The buffer has 5 data now
+[consumer #3] consumes 163	Buffer [-1, 237, 126, 49, 178, ]
+The buffer has 4 data now
+[producer #4] produces 14	Buffer [14, 237, 126, 49, 178, ]
+The buffer has 5 data now
+[consumer #4] consumes 237	Buffer [14, -1, 126, 49, 178, ]
+The buffer has 4 data now
+[consumer #0] consumes 126	Buffer [14, -1, -1, 49, 178, ]
+The buffer has 3 data now
+[producer #0] produces 237	Buffer [14, 237, -1, 49, 178, ]
+The buffer has 4 data now
+[producer #1] produces 250	Buffer [14, 237, 250, 49, 178, ]
+The buffer has 5 data now
+[consumer #3] consumes 49	Buffer [14, 237, 250, -1, 178, ]
+The buffer has 4 data now
+[producer #2] produces 58	Buffer [14, 237, 250, 58, 178, ]
+The buffer has 5 data now
+[consumer #2] consumes 178	Buffer [14, 237, 250, 58, -1, ]
+The buffer has 4 data now
+[producer #3] produces 222	Buffer [14, 237, 250, 58, 222, ]
+The buffer has 5 data now
+[consumer #1] consumes 14	Buffer [-1, 237, 250, 58, 222, ]
+The buffer has 4 data now
+[producer #0] produces 172	Buffer [172, 237, 250, 58, 222, ]
+The buffer has 5 data now
+[consumer #4] consumes 237	Buffer [172, -1, 250, 58, 222, ]
+The buffer has 4 data now
+[producer #3] produces 188	Buffer [172, 188, 250, 58, 222, ]
+The buffer has 5 data now
+[consumer #0] consumes 250	Buffer [172, 188, -1, 58, 222, ]
+The buffer has 4 data now
+[consumer #3] consumes 58	Buffer [172, 188, -1, -1, 222, ]
+The buffer has 3 data now
+[producer #0] produces 4	Buffer [172, 188, 4, -1, 222, ]
+The buffer has 4 data now
+[producer #1] produces 178	Buffer [172, 188, 4, 178, 222, ]
+The buffer has 5 data now
+[consumer #2] consumes 222	Buffer [172, 188, 4, 178, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 172	Buffer [-1, 188, 4, 178, -1, ]
+The buffer has 3 data now
+[producer #4] produces 129	Buffer [-1, 188, 4, 178, 129, ]
+The buffer has 4 data now
+[consumer #1] consumes 188	Buffer [-1, -1, 4, 178, 129, ]
+The buffer has 3 data now
+[producer #2] produces 186	Buffer [186, -1, 4, 178, 129, ]
+The buffer has 4 data now
+[consumer #0] consumes 4	Buffer [186, -1, -1, 178, 129, ]
+The buffer has 3 data now
+[consumer #4] consumes 178	Buffer [186, -1, -1, -1, 129, ]
+The buffer has 2 data now
+[producer #4] produces 240	Buffer [186, 240, -1, -1, 129, ]
+The buffer has 3 data now
+[producer #3] produces 88	Buffer [186, 240, 88, -1, 129, ]
+The buffer has 4 data now
+[producer #1] produces 89	Buffer [186, 240, 88, 89, 129, ]
+The buffer has 5 data now
+[consumer #3] consumes 129	Buffer [186, 240, 88, 89, -1, ]
+The buffer has 4 data now
+[producer #4] produces 126	Buffer [186, 240, 88, 89, 126, ]
+The buffer has 5 data now
+[consumer #2] consumes 186	Buffer [-1, 240, 88, 89, 126, ]
+The buffer has 4 data now
+[consumer #0] consumes 240	Buffer [-1, -1, 88, 89, 126, ]
+The buffer has 3 data now
+[producer #2] produces 156	Buffer [156, -1, 88, 89, 126, ]
+The buffer has 4 data now
+[producer #0] produces 22	Buffer [156, 22, 88, 89, 126, ]
+The buffer has 5 data now
+[consumer #1] consumes 88	Buffer [156, 22, -1, 89, 126, ]
+The buffer has 4 data now
+[consumer #4] consumes 89	Buffer [156, 22, -1, -1, 126, ]
+The buffer has 3 data now
+[producer #1] produces 192	Buffer [156, 22, 192, -1, 126, ]
+The buffer has 4 data now
+[producer #3] produces 36	Buffer [156, 22, 192, 36, 126, ]
+The buffer has 5 data now
+[consumer #4] consumes 126	Buffer [156, 22, 192, 36, -1, ]
+The buffer has 4 data now
+[producer #2] produces 9	Buffer [156, 22, 192, 36, 9, ]
+The buffer has 5 data now
+[consumer #0] consumes 156	Buffer [-1, 22, 192, 36, 9, ]
+The buffer has 4 data now
+[producer #4] produces 122	Buffer [122, 22, 192, 36, 9, ]
+The buffer has 5 data now
+[consumer #3] consumes 22	Buffer [122, -1, 192, 36, 9, ]
+The buffer has 4 data now
+[consumer #1] consumes 192	Buffer [122, -1, -1, 36, 9, ]
+The buffer has 3 data now
+[producer #2] produces 120	Buffer [122, 120, -1, 36, 9, ]
+The buffer has 4 data now
+[consumer #4] consumes 36	Buffer [122, 120, -1, -1, 9, ]
+The buffer has 3 data now
+[consumer #2] consumes 9	Buffer [122, 120, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 154	Buffer [122, 120, 154, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 66	Buffer [122, 120, 154, 66, -1, ]
+The buffer has 4 data now
+[producer #0] produces 215	Buffer [122, 120, 154, 66, 215, ]
+The buffer has 5 data now
+[consumer #2] consumes 122	Buffer [-1, 120, 154, 66, 215, ]
+The buffer has 4 data now
+[consumer #0] consumes 120	Buffer [-1, -1, 154, 66, 215, ]
+The buffer has 3 data now
+[consumer #3] consumes 154	Buffer [-1, -1, -1, 66, 215, ]
+The buffer has 2 data now
+[consumer #1] consumes 66	Buffer [-1, -1, -1, -1, 215, ]
+The buffer has 1 data now
+[consumer #4] consumes 215	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 156	Buffer [156, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 229	Buffer [156, 229, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 197	Buffer [156, 229, 197, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 27	Buffer [156, 229, 197, 27, -1, ]
+The buffer has 4 data now
+[producer #2] produces 151	Buffer [156, 229, 197, 27, 151, ]
+The buffer has 5 data now
+[consumer #4] consumes 156	Buffer [-1, 229, 197, 27, 151, ]
+The buffer has 4 data now
+[consumer #3] consumes 229	Buffer [-1, -1, 197, 27, 151, ]
+The buffer has 3 data now
+[producer #4] produces 248	Buffer [248, -1, 197, 27, 151, ]
+The buffer has 4 data now
+[consumer #2] consumes 197	Buffer [248, -1, -1, 27, 151, ]
+The buffer has 3 data now
+[producer #3] produces 168	Buffer [248, 168, -1, 27, 151, ]
+The buffer has 4 data now
+[consumer #1] consumes 27	Buffer [248, 168, -1, -1, 151, ]
+The buffer has 3 data now
+[consumer #0] consumes 151	Buffer [248, 168, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 5	Buffer [248, 168, 5, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 243	Buffer [248, 168, 5, 243, -1, ]
+The buffer has 4 data now
+[producer #0] produces 99	Buffer [248, 168, 5, 243, 99, ]
+The buffer has 5 data now
+[consumer #3] consumes 248	Buffer [-1, 168, 5, 243, 99, ]
+The buffer has 4 data now
+[producer #3] produces 228	Buffer [228, 168, 5, 243, 99, ]
+The buffer has 5 data now
+[consumer #0] consumes 168	Buffer [228, -1, 5, 243, 99, ]
+The buffer has 4 data now
+[producer #1] produces 32	Buffer [228, 32, 5, 243, 99, ]
+The buffer has 5 data now
+[consumer #4] consumes 5	Buffer [228, 32, -1, 243, 99, ]
+The buffer has 4 data now
+[consumer #1] consumes 243	Buffer [228, 32, -1, -1, 99, ]
+The buffer has 3 data now
+[producer #2] produces 32	Buffer [228, 32, 32, -1, 99, ]
+The buffer has 4 data now
+[consumer #2] consumes 99	Buffer [228, 32, 32, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 104	Buffer [228, 32, 32, 104, -1, ]
+The buffer has 4 data now
+[producer #4] produces 83	Buffer [228, 32, 32, 104, 83, ]
+The buffer has 5 data now
+[consumer #0] consumes 228	Buffer [-1, 32, 32, 104, 83, ]
+The buffer has 4 data now
+[consumer #3] consumes 32	Buffer [-1, -1, 32, 104, 83, ]
+The buffer has 3 data now
+[consumer #4] consumes 32	Buffer [-1, -1, -1, 104, 83, ]
+The buffer has 2 data now
+[producer #3] produces 33	Buffer [33, -1, -1, 104, 83, ]
+The buffer has 3 data now
+[producer #0] produces 163	Buffer [33, 163, -1, 104, 83, ]
+The buffer has 4 data now
+[producer #1] produces 68	Buffer [33, 163, 68, 104, 83, ]
+The buffer has 5 data now
+[consumer #1] consumes 104	Buffer [33, 163, 68, -1, 83, ]
+The buffer has 4 data now
+[producer #4] produces 122	Buffer [33, 163, 68, 122, 83, ]
+The buffer has 5 data now
+[consumer #2] consumes 83	Buffer [33, 163, 68, 122, -1, ]
+The buffer has 4 data now
+[producer #2] produces 252	Buffer [33, 163, 68, 122, 252, ]
+The buffer has 5 data now
+[consumer #3] consumes 33	Buffer [-1, 163, 68, 122, 252, ]
+The buffer has 4 data now
+[producer #0] produces 194	Buffer [194, 163, 68, 122, 252, ]
+The buffer has 5 data now
+[consumer #0] consumes 163	Buffer [194, -1, 68, 122, 252, ]
+The buffer has 4 data now
+[producer #3] produces 150	Buffer [194, 150, 68, 122, 252, ]
+The buffer has 5 data now
+[consumer #2] consumes 68	Buffer [194, 150, -1, 122, 252, ]
+The buffer has 4 data now
+[consumer #1] consumes 122	Buffer [194, 150, -1, -1, 252, ]
+The buffer has 3 data now
+[producer #4] produces 146	Buffer [194, 150, 146, -1, 252, ]
+The buffer has 4 data now
+[consumer #4] consumes 252	Buffer [194, 150, 146, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 4	Buffer [194, 150, 146, 4, -1, ]
+The buffer has 4 data now
+[producer #1] produces 186	Buffer [194, 150, 146, 4, 186, ]
+The buffer has 5 data now
+[consumer #0] consumes 194	Buffer [-1, 150, 146, 4, 186, ]
+The buffer has 4 data now
+[consumer #1] consumes 150	Buffer [-1, -1, 146, 4, 186, ]
+The buffer has 3 data now
+[producer #0] produces 27	Buffer [27, -1, 146, 4, 186, ]
+The buffer has 4 data now
+[consumer #3] consumes 146	Buffer [27, -1, -1, 4, 186, ]
+The buffer has 3 data now
+[producer #4] produces 126	Buffer [27, 126, -1, 4, 186, ]
+The buffer has 4 data now
+[producer #3] produces 51	Buffer [27, 126, 51, 4, 186, ]
+The buffer has 5 data now
+[consumer #4] consumes 4	Buffer [27, 126, 51, -1, 186, ]
+The buffer has 4 data now
+[consumer #1] consumes 186	Buffer [27, 126, 51, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 27	Buffer [-1, 126, 51, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 181	Buffer [-1, 126, 51, 181, -1, ]
+The buffer has 3 data now
+[producer #4] produces 192	Buffer [-1, 126, 51, 181, 192, ]
+The buffer has 4 data now
+[producer #0] produces 138	Buffer [138, 126, 51, 181, 192, ]
+The buffer has 5 data now
+[consumer #1] consumes 126	Buffer [138, -1, 51, 181, 192, ]
+The buffer has 4 data now
+[consumer #3] consumes 51	Buffer [138, -1, -1, 181, 192, ]
+The buffer has 3 data now
+[producer #2] produces 82	Buffer [138, 82, -1, 181, 192, ]
+The buffer has 4 data now
+[consumer #2] consumes 181	Buffer [138, 82, -1, -1, 192, ]
+The buffer has 3 data now
+[producer #1] produces 38	Buffer [138, 82, 38, -1, 192, ]
+The buffer has 4 data now
+[consumer #0] consumes 192	Buffer [138, 82, 38, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 138	Buffer [-1, 82, 38, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 80	Buffer [-1, 82, 38, 80, -1, ]
+The buffer has 3 data now
+[producer #4] produces 236	Buffer [-1, 82, 38, 80, 236, ]
+The buffer has 4 data now
+[producer #0] produces 61	Buffer [61, 82, 38, 80, 236, ]
+The buffer has 5 data now
+[consumer #1] consumes 82	Buffer [61, -1, 38, 80, 236, ]
+The buffer has 4 data now
+[producer #3] produces 200	Buffer [61, 200, 38, 80, 236, ]
+The buffer has 5 data now
+[consumer #2] consumes 38	Buffer [61, 200, -1, 80, 236, ]
+The buffer has 4 data now
+[consumer #4] consumes 80	Buffer [61, 200, -1, -1, 236, ]
+The buffer has 3 data now
+[producer #1] produces 22	Buffer [61, 200, 22, -1, 236, ]
+The buffer has 4 data now
+[consumer #3] consumes 236	Buffer [61, 200, 22, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 67	Buffer [61, 200, 22, 67, -1, ]
+The buffer has 4 data now
+[producer #2] produces 60	Buffer [61, 200, 22, 67, 60, ]
+The buffer has 5 data now
+[consumer #0] consumes 61	Buffer [-1, 200, 22, 67, 60, ]
+The buffer has 4 data now
+[consumer #4] consumes 200	Buffer [-1, -1, 22, 67, 60, ]
+The buffer has 3 data now
+[producer #4] produces 121	Buffer [121, -1, 22, 67, 60, ]
+The buffer has 4 data now
+[producer #3] produces 167	Buffer [121, 167, 22, 67, 60, ]
+The buffer has 5 data now
+[consumer #2] consumes 22	Buffer [121, 167, -1, 67, 60, ]
+The buffer has 4 data now
+[consumer #1] consumes 67	Buffer [121, 167, -1, -1, 60, ]
+The buffer has 3 data now
+[producer #0] produces 220	Buffer [121, 167, 220, -1, 60, ]
+The buffer has 4 data now
+[consumer #3] consumes 60	Buffer [121, 167, 220, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 25	Buffer [121, 167, 220, 25, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 121	Buffer [-1, 167, 220, 25, -1, ]
+The buffer has 3 data now
+[producer #2] produces 143	Buffer [-1, 167, 220, 25, 143, ]
+The buffer has 4 data now
+[producer #1] produces 48	Buffer [48, 167, 220, 25, 143, ]
+The buffer has 5 data now
+[consumer #0] consumes 167	Buffer [48, -1, 220, 25, 143, ]
+The buffer has 4 data now
+[consumer #2] consumes 220	Buffer [48, -1, -1, 25, 143, ]
+The buffer has 3 data now
+[consumer #3] consumes 25	Buffer [48, -1, -1, -1, 143, ]
+The buffer has 2 data now
+[producer #0] produces 58	Buffer [48, 58, -1, -1, 143, ]
+The buffer has 3 data now
+[producer #3] produces 51	Buffer [48, 58, 51, -1, 143, ]
+The buffer has 4 data now
+[producer #0] produces 116	Buffer [48, 58, 51, 116, 143, ]
+The buffer has 5 data now
+[consumer #1] consumes 143	Buffer [48, 58, 51, 116, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 48	Buffer [-1, 58, 51, 116, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 58	Buffer [-1, -1, 51, 116, -1, ]
+The buffer has 2 data now
+[producer #4] produces 52	Buffer [-1, -1, 51, 116, 52, ]
+The buffer has 3 data now
+[producer #2] produces 175	Buffer [175, -1, 51, 116, 52, ]
+The buffer has 4 data now
+[producer #3] produces 182	Buffer [175, 182, 51, 116, 52, ]
+The buffer has 5 data now
+[consumer #0] consumes 51	Buffer [175, 182, -1, 116, 52, ]
+The buffer has 4 data now
+[producer #1] produces 202	Buffer [175, 182, 202, 116, 52, ]
+The buffer has 5 data now
+[consumer #4] consumes 116	Buffer [175, 182, 202, -1, 52, ]
+The buffer has 4 data now
+[consumer #3] consumes 52	Buffer [175, 182, 202, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 193	Buffer [175, 182, 202, 193, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 175	Buffer [-1, 182, 202, 193, -1, ]
+The buffer has 3 data now
+[producer #3] produces 58	Buffer [-1, 182, 202, 193, 58, ]
+The buffer has 4 data now
+[producer #2] produces 5	Buffer [5, 182, 202, 193, 58, ]
+The buffer has 5 data now
+[consumer #0] consumes 182	Buffer [5, -1, 202, 193, 58, ]
+The buffer has 4 data now
+[consumer #1] consumes 202	Buffer [5, -1, -1, 193, 58, ]
+The buffer has 3 data now
+[producer #4] produces 220	Buffer [5, 220, -1, 193, 58, ]
+The buffer has 4 data now
+[consumer #4] consumes 193	Buffer [5, 220, -1, -1, 58, ]
+The buffer has 3 data now
+[producer #0] produces 56	Buffer [5, 220, 56, -1, 58, ]
+The buffer has 4 data now
+[producer #3] produces 56	Buffer [5, 220, 56, 56, 58, ]
+The buffer has 5 data now
+[consumer #3] consumes 58	Buffer [5, 220, 56, 56, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 5	Buffer [-1, 220, 56, 56, -1, ]
+The buffer has 3 data now
+[producer #1] produces 146	Buffer [-1, 220, 56, 56, 146, ]
+The buffer has 4 data now
+[producer #2] produces 120	Buffer [120, 220, 56, 56, 146, ]
+The buffer has 5 data now
+[consumer #1] consumes 220	Buffer [120, -1, 56, 56, 146, ]
+The buffer has 4 data now
+[producer #3] produces 194	Buffer [120, 194, 56, 56, 146, ]
+The buffer has 5 data now
+[consumer #2] consumes 56	Buffer [120, 194, -1, 56, 146, ]
+The buffer has 4 data now
+[producer #4] produces 100	Buffer [120, 194, 100, 56, 146, ]
+The buffer has 5 data now
+[consumer #3] consumes 56	Buffer [120, 194, 100, -1, 146, ]
+The buffer has 4 data now
+[consumer #4] consumes 146	Buffer [120, 194, 100, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 120	Buffer [-1, 194, 100, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 159	Buffer [-1, 194, 100, 159, -1, ]
+The buffer has 3 data now
+[producer #1] produces 147	Buffer [-1, 194, 100, 159, 147, ]
+The buffer has 4 data now
+[producer #3] produces 209	Buffer [209, 194, 100, 159, 147, ]
+The buffer has 5 data now
+[consumer #3] consumes 194	Buffer [209, -1, 100, 159, 147, ]
+The buffer has 4 data now
+[consumer #0] consumes 100	Buffer [209, -1, -1, 159, 147, ]
+The buffer has 3 data now
+[producer #0] produces 92	Buffer [209, 92, -1, 159, 147, ]
+The buffer has 4 data now
+[consumer #2] consumes 159	Buffer [209, 92, -1, -1, 147, ]
+The buffer has 3 data now
+[consumer #3] consumes 147	Buffer [209, 92, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 209	Buffer [-1, 92, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 219	Buffer [-1, 92, 219, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 231	Buffer [-1, 92, 219, 231, -1, ]
+The buffer has 3 data now
+[producer #1] produces 31	Buffer [-1, 92, 219, 231, 31, ]
+The buffer has 4 data now
+[producer #4] produces 25	Buffer [25, 92, 219, 231, 31, ]
+The buffer has 5 data now
+[consumer #1] consumes 92	Buffer [25, -1, 219, 231, 31, ]
+The buffer has 4 data now
+[consumer #4] consumes 219	Buffer [25, -1, -1, 231, 31, ]
+The buffer has 3 data now
+[producer #3] produces 97	Buffer [25, 97, -1, 231, 31, ]
+The buffer has 4 data now
+[producer #0] produces 198	Buffer [25, 97, 198, 231, 31, ]
+The buffer has 5 data now
+[consumer #0] consumes 231	Buffer [25, 97, 198, -1, 31, ]
+The buffer has 4 data now
+[consumer #3] consumes 31	Buffer [25, 97, 198, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 245	Buffer [25, 97, 198, 245, -1, ]
+The buffer has 4 data now
+[producer #1] produces 249	Buffer [25, 97, 198, 245, 249, ]
+The buffer has 5 data now
+[consumer #2] consumes 25	Buffer [-1, 97, 198, 245, 249, ]
+The buffer has 4 data now
+[producer #3] produces 214	Buffer [214, 97, 198, 245, 249, ]
+The buffer has 5 data now
+[consumer #1] consumes 97	Buffer [214, -1, 198, 245, 249, ]
+The buffer has 4 data now
+[producer #2] produces 165	Buffer [214, 165, 198, 245, 249, ]
+The buffer has 5 data now
+[consumer #3] consumes 198	Buffer [214, 165, -1, 245, 249, ]
+The buffer has 4 data now
+[producer #3] produces 179	Buffer [214, 165, 179, 245, 249, ]
+The buffer has 5 data now
+[consumer #0] consumes 245	Buffer [214, 165, 179, -1, 249, ]
+The buffer has 4 data now
+[consumer #4] consumes 249	Buffer [214, 165, 179, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 10	Buffer [214, 165, 179, 10, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 214	Buffer [-1, 165, 179, 10, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 165	Buffer [-1, -1, 179, 10, -1, ]
+The buffer has 2 data now
+[producer #1] produces 153	Buffer [-1, -1, 179, 10, 153, ]
+The buffer has 3 data now
+[producer #2] produces 232	Buffer [232, -1, 179, 10, 153, ]
+The buffer has 4 data now
+[consumer #2] consumes 179	Buffer [232, -1, -1, 10, 153, ]
+The buffer has 3 data now
+[producer #3] produces 58	Buffer [232, 58, -1, 10, 153, ]
+The buffer has 4 data now
+[producer #4] produces 207	Buffer [232, 58, 207, 10, 153, ]
+The buffer has 5 data now
+[consumer #1] consumes 10	Buffer [232, 58, 207, -1, 153, ]
+The buffer has 4 data now
+[consumer #0] consumes 153	Buffer [232, 58, 207, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 51	Buffer [232, 58, 207, 51, -1, ]
+The buffer has 4 data now
+[producer #4] produces 251	Buffer [232, 58, 207, 51, 251, ]
+The buffer has 5 data now
+[consumer #4] consumes 232	Buffer [-1, 58, 207, 51, 251, ]
+The buffer has 4 data now
+[consumer #3] consumes 58	Buffer [-1, -1, 207, 51, 251, ]
+The buffer has 3 data now
+[consumer #2] consumes 207	Buffer [-1, -1, -1, 51, 251, ]
+The buffer has 2 data now
+[producer #1] produces 11	Buffer [11, -1, -1, 51, 251, ]
+The buffer has 3 data now
+[producer #2] produces 57	Buffer [11, 57, -1, 51, 251, ]
+The buffer has 4 data now
+[producer #3] produces 217	Buffer [11, 57, 217, 51, 251, ]
+The buffer has 5 data now
+[consumer #1] consumes 51	Buffer [11, 57, 217, -1, 251, ]
+The buffer has 4 data now
+[consumer #2] consumes 251	Buffer [11, 57, 217, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 11	Buffer [-1, 57, 217, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 57	Buffer [-1, -1, 217, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 67	Buffer [-1, -1, 217, 67, -1, ]
+The buffer has 2 data now
+[producer #4] produces 113	Buffer [-1, -1, 217, 67, 113, ]
+The buffer has 3 data now
+[producer #0] produces 235	Buffer [235, -1, 217, 67, 113, ]
+The buffer has 4 data now
+[consumer #0] consumes 217	Buffer [235, -1, -1, 67, 113, ]
+The buffer has 3 data now
+[producer #1] produces 188	Buffer [235, 188, -1, 67, 113, ]
+The buffer has 4 data now
+[producer #3] produces 180	Buffer [235, 188, 180, 67, 113, ]
+The buffer has 5 data now
+[consumer #2] consumes 67	Buffer [235, 188, 180, -1, 113, ]
+The buffer has 4 data now
+[consumer #3] consumes 113	Buffer [235, 188, 180, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 235	Buffer [-1, 188, 180, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 188	Buffer [-1, -1, 180, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 208	Buffer [-1, -1, 180, 208, -1, ]
+The buffer has 2 data now
+[producer #0] produces 219	Buffer [-1, -1, 180, 208, 219, ]
+The buffer has 3 data now
+[consumer #3] consumes 180	Buffer [-1, -1, -1, 208, 219, ]
+The buffer has 2 data now
+[consumer #4] consumes 208	Buffer [-1, -1, -1, -1, 219, ]
+The buffer has 1 data now
+[producer #1] produces 72	Buffer [72, -1, -1, -1, 219, ]
+The buffer has 2 data now
+[producer #4] produces 162	Buffer [72, 162, -1, -1, 219, ]
+The buffer has 3 data now
+[producer #3] produces 183	Buffer [72, 162, 183, -1, 219, ]
+The buffer has 4 data now
+[consumer #2] consumes 219	Buffer [72, 162, 183, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 72	Buffer [-1, 162, 183, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 162	Buffer [-1, -1, 183, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 36	Buffer [-1, -1, 183, 36, -1, ]
+The buffer has 2 data now
+[producer #3] produces 138	Buffer [-1, -1, 183, 36, 138, ]
+The buffer has 3 data now
+[producer #0] produces 215	Buffer [215, -1, 183, 36, 138, ]
+The buffer has 4 data now
+[consumer #2] consumes 183	Buffer [215, -1, -1, 36, 138, ]
+The buffer has 3 data now
+[consumer #0] consumes 36	Buffer [215, -1, -1, -1, 138, ]
+The buffer has 2 data now
+[producer #4] produces 188	Buffer [215, 188, -1, -1, 138, ]
+The buffer has 3 data now
+[consumer #4] consumes 138	Buffer [215, 188, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 107	Buffer [215, 188, 107, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 215	Buffer [-1, 188, 107, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 30	Buffer [-1, 188, 107, 30, -1, ]
+The buffer has 3 data now
+[producer #0] produces 50	Buffer [-1, 188, 107, 30, 50, ]
+The buffer has 4 data now
+[consumer #2] consumes 188	Buffer [-1, -1, 107, 30, 50, ]
+The buffer has 3 data now
+[producer #2] produces 101	Buffer [101, -1, 107, 30, 50, ]
+The buffer has 4 data now
+[producer #4] produces 244	Buffer [101, 244, 107, 30, 50, ]
+The buffer has 5 data now
+[consumer #0] consumes 107	Buffer [101, 244, -1, 30, 50, ]
+The buffer has 4 data now
+[consumer #3] consumes 30	Buffer [101, 244, -1, -1, 50, ]
+The buffer has 3 data now
+[consumer #4] consumes 50	Buffer [101, 244, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 87	Buffer [101, 244, 87, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 101	Buffer [-1, 244, 87, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 25	Buffer [-1, 244, 87, 25, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 244	Buffer [-1, -1, 87, 25, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 87	Buffer [-1, -1, -1, 25, -1, ]
+The buffer has 1 data now
+[producer #0] produces 127	Buffer [-1, -1, -1, 25, 127, ]
+The buffer has 2 data now
+[producer #2] produces 240	Buffer [240, -1, -1, 25, 127, ]
+The buffer has 3 data now
+[consumer #0] consumes 25	Buffer [240, -1, -1, -1, 127, ]
+The buffer has 2 data now
+[consumer #1] consumes 127	Buffer [240, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 129	Buffer [240, 129, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 185	Buffer [240, 129, 185, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 193	Buffer [240, 129, 185, 193, -1, ]
+The buffer has 4 data now
+[producer #3] produces 181	Buffer [240, 129, 185, 193, 181, ]
+The buffer has 5 data now
+[consumer #3] consumes 240	Buffer [-1, 129, 185, 193, 181, ]
+The buffer has 4 data now
+[consumer #2] consumes 129	Buffer [-1, -1, 185, 193, 181, ]
+The buffer has 3 data now
+[consumer #4] consumes 185	Buffer [-1, -1, -1, 193, 181, ]
+The buffer has 2 data now
+[producer #0] produces 53	Buffer [53, -1, -1, 193, 181, ]
+The buffer has 3 data now
+[consumer #0] consumes 193	Buffer [53, -1, -1, -1, 181, ]
+The buffer has 2 data now
+[producer #1] produces 76	Buffer [53, 76, -1, -1, 181, ]
+The buffer has 3 data now
+[consumer #3] consumes 181	Buffer [53, 76, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 238	Buffer [53, 76, 238, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 142	Buffer [53, 76, 238, 142, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 53	Buffer [-1, 76, 238, 142, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 76	Buffer [-1, -1, 238, 142, -1, ]
+The buffer has 2 data now
+[producer #3] produces 15	Buffer [-1, -1, 238, 142, 15, ]
+The buffer has 3 data now
+[consumer #0] consumes 238	Buffer [-1, -1, -1, 142, 15, ]
+The buffer has 2 data now
+[producer #2] produces 223	Buffer [223, -1, -1, 142, 15, ]
+The buffer has 3 data now
+[consumer #3] consumes 142	Buffer [223, -1, -1, -1, 15, ]
+The buffer has 2 data now
+[producer #0] produces 250	Buffer [223, 250, -1, -1, 15, ]
+The buffer has 3 data now
+[consumer #4] consumes 15	Buffer [223, 250, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 203	Buffer [223, 250, 203, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 148	Buffer [223, 250, 203, 148, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 223	Buffer [-1, 250, 203, 148, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 250	Buffer [-1, -1, 203, 148, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 203	Buffer [-1, -1, -1, 148, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 148	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 203	Buffer [-1, -1, -1, -1, 203, ]
+The buffer has 1 data now
+[producer #3] produces 39	Buffer [39, -1, -1, -1, 203, ]
+The buffer has 2 data now
+[producer #1] produces 92	Buffer [39, 92, -1, -1, 203, ]
+The buffer has 3 data now
+[producer #0] produces 110	Buffer [39, 92, 110, -1, 203, ]
+The buffer has 4 data now
+[consumer #0] consumes 203	Buffer [39, 92, 110, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 39	Buffer [-1, 92, 110, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 92	Buffer [-1, -1, 110, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 223	Buffer [-1, -1, 110, 223, -1, ]
+The buffer has 2 data now
+[producer #1] produces 129	Buffer [-1, -1, 110, 223, 129, ]
+The buffer has 3 data now
+[consumer #4] consumes 110	Buffer [-1, -1, -1, 223, 129, ]
+The buffer has 2 data now
+[consumer #1] consumes 223	Buffer [-1, -1, -1, -1, 129, ]
+The buffer has 1 data now
+[producer #2] produces 120	Buffer [120, -1, -1, -1, 129, ]
+The buffer has 2 data now
+[consumer #0] consumes 129	Buffer [120, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 120	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 55	Buffer [-1, 55, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 55	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 189	Buffer [-1, -1, 189, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 99	Buffer [-1, -1, 189, 99, -1, ]
+The buffer has 2 data now
+[producer #2] produces 85	Buffer [-1, -1, 189, 99, 85, ]
+The buffer has 3 data now
+[consumer #2] consumes 189	Buffer [-1, -1, -1, 99, 85, ]
+The buffer has 2 data now
+[producer #1] produces 240	Buffer [240, -1, -1, 99, 85, ]
+The buffer has 3 data now
+[consumer #4] consumes 99	Buffer [240, -1, -1, -1, 85, ]
+The buffer has 2 data now
+[consumer #0] consumes 85	Buffer [240, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 240	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 200	Buffer [-1, 200, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 200	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 75	Buffer [-1, -1, 75, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 199	Buffer [-1, -1, 75, 199, -1, ]
+The buffer has 2 data now
+[producer #2] produces 97	Buffer [-1, -1, 75, 199, 97, ]
+The buffer has 3 data now
+[consumer #2] consumes 75	Buffer [-1, -1, -1, 199, 97, ]
+The buffer has 2 data now
+[consumer #0] consumes 199	Buffer [-1, -1, -1, -1, 97, ]
+The buffer has 1 data now
+[producer #0] produces 74	Buffer [74, -1, -1, -1, 97, ]
+The buffer has 2 data now
+[consumer #4] consumes 97	Buffer [74, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 185	Buffer [74, 185, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 74	Buffer [-1, 185, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 185	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 99	Buffer [-1, -1, 99, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 4	Buffer [-1, -1, 99, 4, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 99	Buffer [-1, -1, -1, 4, -1, ]
+The buffer has 1 data now
+[producer #3] produces 250	Buffer [-1, -1, -1, 4, 250, ]
+The buffer has 2 data now
+[producer #0] produces 25	Buffer [25, -1, -1, 4, 250, ]
+The buffer has 3 data now
+[consumer #0] consumes 4	Buffer [25, -1, -1, -1, 250, ]
+The buffer has 2 data now
+[consumer #4] consumes 250	Buffer [25, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 25	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 57	Buffer [-1, 57, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 71	Buffer [-1, 57, 71, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 57	Buffer [-1, -1, 71, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 135	Buffer [-1, -1, 71, 135, -1, ]
+The buffer has 2 data now
+[producer #1] produces 72	Buffer [-1, -1, 71, 135, 72, ]
+The buffer has 3 data now
+[consumer #4] consumes 71	Buffer [-1, -1, -1, 135, 72, ]
+The buffer has 2 data now
+[producer #1] produces 86	Buffer [86, -1, -1, 135, 72, ]
+The buffer has 3 data now
+[consumer #2] consumes 135	Buffer [86, -1, -1, -1, 72, ]
+The buffer has 2 data now
+[producer #3] produces 103	Buffer [86, 103, -1, -1, 72, ]
+The buffer has 3 data now
+[consumer #3] consumes 72	Buffer [86, 103, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 86	Buffer [-1, 103, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 67	Buffer [-1, 103, 67, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 103	Buffer [-1, -1, 67, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 162	Buffer [-1, -1, 67, 162, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 67	Buffer [-1, -1, -1, 162, -1, ]
+The buffer has 1 data now
+[producer #4] produces 252	Buffer [-1, -1, -1, 162, 252, ]
+The buffer has 2 data now
+[producer #2] produces 15	Buffer [15, -1, -1, 162, 252, ]
+The buffer has 3 data now
+[producer #0] produces 73	Buffer [15, 73, -1, 162, 252, ]
+The buffer has 4 data now
+[consumer #3] consumes 162	Buffer [15, 73, -1, -1, 252, ]
+The buffer has 3 data now
+[consumer #2] consumes 252	Buffer [15, 73, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 89	Buffer [15, 73, 89, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 15	Buffer [-1, 73, 89, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 252	Buffer [-1, 73, 89, 252, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 73	Buffer [-1, -1, 89, 252, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 89	Buffer [-1, -1, -1, 252, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 252	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 168	Buffer [-1, -1, -1, -1, 168, ]
+The buffer has 1 data now
+[producer #3] produces 90	Buffer [90, -1, -1, -1, 168, ]
+The buffer has 2 data now
+[producer #4] produces 244	Buffer [90, 244, -1, -1, 168, ]
+The buffer has 3 data now
+[consumer #0] consumes 168	Buffer [90, 244, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 90	Buffer [-1, 244, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 223	Buffer [-1, 244, 223, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 25	Buffer [-1, 244, 223, 25, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 244	Buffer [-1, -1, 223, 25, -1, ]
+The buffer has 2 data now
+[producer #2] produces 88	Buffer [-1, -1, 223, 25, 88, ]
+The buffer has 3 data now
+[consumer #1] consumes 223	Buffer [-1, -1, -1, 25, 88, ]
+The buffer has 2 data now
+[consumer #3] consumes 25	Buffer [-1, -1, -1, -1, 88, ]
+The buffer has 1 data now
+[producer #3] produces 54	Buffer [54, -1, -1, -1, 88, ]
+The buffer has 2 data now
+[producer #0] produces 137	Buffer [54, 137, -1, -1, 88, ]
+The buffer has 3 data now
+[consumer #4] consumes 88	Buffer [54, 137, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 33	Buffer [54, 137, 33, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 54	Buffer [-1, 137, 33, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 137	Buffer [-1, -1, 33, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 33	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 1	Buffer [-1, -1, -1, 1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 81	Buffer [-1, -1, -1, 1, 81, ]
+The buffer has 2 data now
+[consumer #0] consumes 1	Buffer [-1, -1, -1, -1, 81, ]
+The buffer has 1 data now
+[producer #1] produces 2	Buffer [2, -1, -1, -1, 81, ]
+The buffer has 2 data now
+[producer #4] produces 75	Buffer [2, 75, -1, -1, 81, ]
+The buffer has 3 data now
+[consumer #1] consumes 81	Buffer [2, 75, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 2	Buffer [-1, 75, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 138	Buffer [-1, 75, 138, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 75	Buffer [-1, -1, 138, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 228	Buffer [-1, -1, 138, 228, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 138	Buffer [-1, -1, -1, 228, -1, ]
+The buffer has 1 data now
+[producer #1] produces 79	Buffer [-1, -1, -1, 228, 79, ]
+The buffer has 2 data now
+[consumer #0] consumes 228	Buffer [-1, -1, -1, -1, 79, ]
+The buffer has 1 data now
+[producer #0] produces 133	Buffer [133, -1, -1, -1, 79, ]
+The buffer has 2 data now
+[producer #4] produces 253	Buffer [133, 253, -1, -1, 79, ]
+The buffer has 3 data now
+[consumer #2] consumes 79	Buffer [133, 253, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 133	Buffer [-1, 253, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 8	Buffer [-1, 253, 8, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 204	Buffer [-1, 253, 8, 204, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 253	Buffer [-1, -1, 8, 204, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 8	Buffer [-1, -1, -1, 204, -1, ]
+The buffer has 1 data now
+[producer #4] produces 133	Buffer [-1, -1, -1, 204, 133, ]
+The buffer has 2 data now
+[producer #1] produces 207	Buffer [207, -1, -1, 204, 133, ]
+The buffer has 3 data now
+[producer #3] produces 163	Buffer [207, 163, -1, 204, 133, ]
+The buffer has 4 data now
+[producer #0] produces 237	Buffer [207, 163, 237, 204, 133, ]
+The buffer has 5 data now
+[consumer #0] consumes 204	Buffer [207, 163, 237, -1, 133, ]
+The buffer has 4 data now
+[consumer #1] consumes 133	Buffer [207, 163, 237, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 207	Buffer [-1, 163, 237, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 163	Buffer [-1, -1, 237, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 19	Buffer [-1, -1, 237, 19, -1, ]
+The buffer has 2 data now
+[producer #3] produces 197	Buffer [-1, -1, 237, 19, 197, ]
+The buffer has 3 data now
+[producer #1] produces 106	Buffer [106, -1, 237, 19, 197, ]
+The buffer has 4 data now
+[consumer #4] consumes 237	Buffer [106, -1, -1, 19, 197, ]
+The buffer has 3 data now
+[consumer #3] consumes 19	Buffer [106, -1, -1, -1, 197, ]
+The buffer has 2 data now
+[consumer #2] consumes 197	Buffer [106, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 161	Buffer [106, 161, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 15	Buffer [106, 161, 15, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 195	Buffer [106, 161, 15, 195, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 106	Buffer [-1, 161, 15, 195, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 161	Buffer [-1, -1, 15, 195, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 15	Buffer [-1, -1, -1, 195, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 195	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 158	Buffer [-1, -1, -1, -1, 158, ]
+The buffer has 1 data now
+[producer #0] produces 184	Buffer [184, -1, -1, -1, 158, ]
+The buffer has 2 data now
+[producer #0] produces 31	Buffer [184, 31, -1, -1, 158, ]
+The buffer has 3 data now
+[consumer #3] consumes 158	Buffer [184, 31, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 147	Buffer [184, 31, 147, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 152	Buffer [184, 31, 147, 152, -1, ]
+The buffer has 4 data now
+[producer #4] produces 183	Buffer [184, 31, 147, 152, 183, ]
+The buffer has 5 data now
+[consumer #4] consumes 184	Buffer [-1, 31, 147, 152, 183, ]
+The buffer has 4 data now
+[consumer #1] consumes 31	Buffer [-1, -1, 147, 152, 183, ]
+The buffer has 3 data now
+[producer #2] produces 235	Buffer [235, -1, 147, 152, 183, ]
+The buffer has 4 data now
+[consumer #2] consumes 147	Buffer [235, -1, -1, 152, 183, ]
+The buffer has 3 data now
+[producer #0] produces 78	Buffer [235, 78, -1, 152, 183, ]
+The buffer has 4 data now
+[producer #4] produces 192	Buffer [235, 78, 192, 152, 183, ]
+The buffer has 5 data now
+[consumer #0] consumes 152	Buffer [235, 78, 192, -1, 183, ]
+The buffer has 4 data now
+[producer #1] produces 140	Buffer [235, 78, 192, 140, 183, ]
+The buffer has 5 data now
+[consumer #3] consumes 183	Buffer [235, 78, 192, 140, -1, ]
+The buffer has 4 data now
+[producer #3] produces 79	Buffer [235, 78, 192, 140, 79, ]
+The buffer has 5 data now
+[consumer #1] consumes 235	Buffer [-1, 78, 192, 140, 79, ]
+The buffer has 4 data now
+[consumer #4] consumes 78	Buffer [-1, -1, 192, 140, 79, ]
+The buffer has 3 data now
+[producer #2] produces 145	Buffer [145, -1, 192, 140, 79, ]
+The buffer has 4 data now
+[producer #0] produces 15	Buffer [145, 15, 192, 140, 79, ]
+The buffer has 5 data now
+[consumer #2] consumes 192	Buffer [145, 15, -1, 140, 79, ]
+The buffer has 4 data now
+[producer #4] produces 154	Buffer [145, 15, 154, 140, 79, ]
+The buffer has 5 data now
+[consumer #1] consumes 140	Buffer [145, 15, 154, -1, 79, ]
+The buffer has 4 data now
+[consumer #0] consumes 79	Buffer [145, 15, 154, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 29	Buffer [145, 15, 154, 29, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 145	Buffer [-1, 15, 154, 29, -1, ]
+The buffer has 3 data now
+[producer #1] produces 243	Buffer [-1, 15, 154, 29, 243, ]
+The buffer has 4 data now
+[producer #4] produces 105	Buffer [105, 15, 154, 29, 243, ]
+The buffer has 5 data now
+[consumer #4] consumes 15	Buffer [105, -1, 154, 29, 243, ]
+The buffer has 4 data now
+[producer #0] produces 162	Buffer [105, 162, 154, 29, 243, ]
+The buffer has 5 data now
+[consumer #1] consumes 154	Buffer [105, 162, -1, 29, 243, ]
+The buffer has 4 data now
+[consumer #2] consumes 29	Buffer [105, 162, -1, -1, 243, ]
+The buffer has 3 data now
+[producer #2] produces 114	Buffer [105, 162, 114, -1, 243, ]
+The buffer has 4 data now
+[producer #3] produces 241	Buffer [105, 162, 114, 241, 243, ]
+The buffer has 5 data now
+[consumer #0] consumes 243	Buffer [105, 162, 114, 241, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 105	Buffer [-1, 162, 114, 241, -1, ]
+The buffer has 3 data now
+[producer #4] produces 239	Buffer [-1, 162, 114, 241, 239, ]
+The buffer has 4 data now
+[producer #0] produces 119	Buffer [119, 162, 114, 241, 239, ]
+The buffer has 5 data now
+[consumer #4] consumes 162	Buffer [119, -1, 114, 241, 239, ]
+The buffer has 4 data now
+[producer #1] produces 193	Buffer [119, 193, 114, 241, 239, ]
+The buffer has 5 data now
+[consumer #1] consumes 114	Buffer [119, 193, -1, 241, 239, ]
+The buffer has 4 data now
+[producer #3] produces 19	Buffer [119, 193, 19, 241, 239, ]
+The buffer has 5 data now
+[consumer #2] consumes 241	Buffer [119, 193, 19, -1, 239, ]
+The buffer has 4 data now
+[producer #4] produces 101	Buffer [119, 193, 19, 101, 239, ]
+The buffer has 5 data now
+[consumer #3] consumes 239	Buffer [119, 193, 19, 101, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 119	Buffer [-1, 193, 19, 101, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 193	Buffer [-1, -1, 19, 101, -1, ]
+The buffer has 2 data now
+[producer #1] produces 85	Buffer [-1, -1, 19, 101, 85, ]
+The buffer has 3 data now
+[producer #3] produces 216	Buffer [216, -1, 19, 101, 85, ]
+The buffer has 4 data now
+[producer #0] produces 207	Buffer [216, 207, 19, 101, 85, ]
+The buffer has 5 data now
+[consumer #1] consumes 19	Buffer [216, 207, -1, 101, 85, ]
+The buffer has 4 data now
+[producer #2] produces 246	Buffer [216, 207, 246, 101, 85, ]
+The buffer has 5 data now
+[consumer #0] consumes 101	Buffer [216, 207, 246, -1, 85, ]
+The buffer has 4 data now
+[producer #2] produces 103	Buffer [216, 207, 246, 103, 85, ]
+The buffer has 5 data now
+[consumer #1] consumes 85	Buffer [216, 207, 246, 103, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 216	Buffer [-1, 207, 246, 103, -1, ]
+The buffer has 3 data now
+[producer #4] produces 20	Buffer [-1, 207, 246, 103, 20, ]
+The buffer has 4 data now
+[consumer #2] consumes 207	Buffer [-1, -1, 246, 103, 20, ]
+The buffer has 3 data now
+[producer #3] produces 22	Buffer [22, -1, 246, 103, 20, ]
+The buffer has 4 data now
+[producer #0] produces 159	Buffer [22, 159, 246, 103, 20, ]
+The buffer has 5 data now
+[consumer #3] consumes 246	Buffer [22, 159, -1, 103, 20, ]
+The buffer has 4 data now
+[producer #1] produces 178	Buffer [22, 159, 178, 103, 20, ]
+The buffer has 5 data now
+[consumer #0] consumes 103	Buffer [22, 159, 178, -1, 20, ]
+The buffer has 4 data now
+[consumer #1] consumes 20	Buffer [22, 159, 178, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 41	Buffer [22, 159, 178, 41, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 22	Buffer [-1, 159, 178, 41, -1, ]
+The buffer has 3 data now
+[producer #4] produces 184	Buffer [-1, 159, 178, 41, 184, ]
+The buffer has 4 data now
+[producer #1] produces 106	Buffer [106, 159, 178, 41, 184, ]
+The buffer has 5 data now
+[consumer #4] consumes 159	Buffer [106, -1, 178, 41, 184, ]
+The buffer has 4 data now
+[consumer #3] consumes 178	Buffer [106, -1, -1, 41, 184, ]
+The buffer has 3 data now
+[producer #3] produces 149	Buffer [106, 149, -1, 41, 184, ]
+The buffer has 4 data now
+[producer #2] produces 7	Buffer [106, 149, 7, 41, 184, ]
+The buffer has 5 data now
+[consumer #1] consumes 41	Buffer [106, 149, 7, -1, 184, ]
+The buffer has 4 data now
+[producer #0] produces 170	Buffer [106, 149, 7, 170, 184, ]
+The buffer has 5 data now
+[consumer #2] consumes 184	Buffer [106, 149, 7, 170, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 106	Buffer [-1, 149, 7, 170, -1, ]
+The buffer has 3 data now
+[producer #4] produces 161	Buffer [-1, 149, 7, 170, 161, ]
+The buffer has 4 data now
+[producer #3] produces 214	Buffer [214, 149, 7, 170, 161, ]
+The buffer has 5 data now
+[consumer #4] consumes 149	Buffer [214, -1, 7, 170, 161, ]
+The buffer has 4 data now
+[producer #2] produces 60	Buffer [214, 60, 7, 170, 161, ]
+The buffer has 5 data now
+[consumer #3] consumes 7	Buffer [214, 60, -1, 170, 161, ]
+The buffer has 4 data now
+[producer #3] produces 176	Buffer [214, 60, 176, 170, 161, ]
+The buffer has 5 data now
+[consumer #2] consumes 170	Buffer [214, 60, 176, -1, 161, ]
+The buffer has 4 data now
+[producer #0] produces 240	Buffer [214, 60, 176, 240, 161, ]
+The buffer has 5 data now
+[consumer #1] consumes 161	Buffer [214, 60, 176, 240, -1, ]
+The buffer has 4 data now
+[producer #1] produces 89	Buffer [214, 60, 176, 240, 89, ]
+The buffer has 5 data now
+[consumer #4] consumes 214	Buffer [-1, 60, 176, 240, 89, ]
+The buffer has 4 data now
+[consumer #3] consumes 60	Buffer [-1, -1, 176, 240, 89, ]
+The buffer has 3 data now
+[producer #2] produces 37	Buffer [37, -1, 176, 240, 89, ]
+The buffer has 4 data now
+[consumer #0] consumes 176	Buffer [37, -1, -1, 240, 89, ]
+The buffer has 3 data now
+[producer #4] produces 218	Buffer [37, 218, -1, 240, 89, ]
+The buffer has 4 data now
+[producer #1] produces 124	Buffer [37, 218, 124, 240, 89, ]
+The buffer has 5 data now
+[consumer #2] consumes 240	Buffer [37, 218, 124, -1, 89, ]
+The buffer has 4 data now
+[producer #0] produces 23	Buffer [37, 218, 124, 23, 89, ]
+The buffer has 5 data now
+[consumer #3] consumes 89	Buffer [37, 218, 124, 23, -1, ]
+The buffer has 4 data now
+[producer #1] produces 204	Buffer [37, 218, 124, 23, 204, ]
+The buffer has 5 data now
+[consumer #1] consumes 37	Buffer [-1, 218, 124, 23, 204, ]
+The buffer has 4 data now
+[producer #0] produces 235	Buffer [235, 218, 124, 23, 204, ]
+The buffer has 5 data now
+[consumer #0] consumes 218	Buffer [235, -1, 124, 23, 204, ]
+The buffer has 4 data now
+[consumer #3] consumes 124	Buffer [235, -1, -1, 23, 204, ]
+The buffer has 3 data now
+[producer #3] produces 142	Buffer [235, 142, -1, 23, 204, ]
+The buffer has 4 data now
+[producer #2] produces 14	Buffer [235, 142, 14, 23, 204, ]
+The buffer has 5 data now
+[consumer #3] consumes 23	Buffer [235, 142, 14, -1, 204, ]
+The buffer has 4 data now
+[consumer #4] consumes 204	Buffer [235, 142, 14, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 235	Buffer [-1, 142, 14, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 254	Buffer [-1, 142, 14, 254, -1, ]
+The buffer has 3 data now
+[producer #0] produces 244	Buffer [-1, 142, 14, 254, 244, ]
+The buffer has 4 data now
+[producer #1] produces 99	Buffer [99, 142, 14, 254, 244, ]
+The buffer has 5 data now
+[consumer #1] consumes 142	Buffer [99, -1, 14, 254, 244, ]
+The buffer has 4 data now
+[producer #3] produces 87	Buffer [99, 87, 14, 254, 244, ]
+The buffer has 5 data now
+[consumer #4] consumes 14	Buffer [99, 87, -1, 254, 244, ]
+The buffer has 4 data now
+[consumer #0] consumes 254	Buffer [99, 87, -1, -1, 244, ]
+The buffer has 3 data now
+[producer #2] produces 68	Buffer [99, 87, 68, -1, 244, ]
+The buffer has 4 data now
+[producer #1] produces 218	Buffer [99, 87, 68, 218, 244, ]
+The buffer has 5 data now
+[consumer #3] consumes 244	Buffer [99, 87, 68, 218, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 99	Buffer [-1, 87, 68, 218, -1, ]
+The buffer has 3 data now
+[producer #4] produces 62	Buffer [-1, 87, 68, 218, 62, ]
+The buffer has 4 data now
+[producer #0] produces 88	Buffer [88, 87, 68, 218, 62, ]
+The buffer has 5 data now
+[consumer #1] consumes 87	Buffer [88, -1, 68, 218, 62, ]
+The buffer has 4 data now
+[producer #3] produces 240	Buffer [88, 240, 68, 218, 62, ]
+The buffer has 5 data now
+[consumer #3] consumes 68	Buffer [88, 240, -1, 218, 62, ]
+The buffer has 4 data now
+[producer #0] produces 94	Buffer [88, 240, 94, 218, 62, ]
+The buffer has 5 data now
+[consumer #4] consumes 218	Buffer [88, 240, 94, -1, 62, ]
+The buffer has 4 data now
+[consumer #2] consumes 62	Buffer [88, 240, 94, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 138	Buffer [88, 240, 94, 138, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 88	Buffer [-1, 240, 94, 138, -1, ]
+The buffer has 3 data now
+[producer #1] produces 26	Buffer [-1, 240, 94, 138, 26, ]
+The buffer has 4 data now
+[producer #3] produces 23	Buffer [23, 240, 94, 138, 26, ]
+The buffer has 5 data now
+[consumer #1] consumes 240	Buffer [23, -1, 94, 138, 26, ]
+The buffer has 4 data now
+[producer #2] produces 244	Buffer [23, 244, 94, 138, 26, ]
+The buffer has 5 data now
+[consumer #3] consumes 94	Buffer [23, 244, -1, 138, 26, ]
+The buffer has 4 data now
+[producer #1] produces 175	Buffer [23, 244, 175, 138, 26, ]
+The buffer has 5 data now
+[consumer #2] consumes 138	Buffer [23, 244, 175, -1, 26, ]
+The buffer has 4 data now
+[producer #4] produces 157	Buffer [23, 244, 175, 157, 26, ]
+The buffer has 5 data now
+[consumer #4] consumes 26	Buffer [23, 244, 175, 157, -1, ]
+The buffer has 4 data now
+[producer #0] produces 31	Buffer [23, 244, 175, 157, 31, ]
+The buffer has 5 data now
+[consumer #0] consumes 23	Buffer [-1, 244, 175, 157, 31, ]
+The buffer has 4 data now
+[consumer #1] consumes 244	Buffer [-1, -1, 175, 157, 31, ]
+The buffer has 3 data now
+[producer #2] produces 209	Buffer [209, -1, 175, 157, 31, ]
+The buffer has 4 data now
+[producer #3] produces 243	Buffer [209, 243, 175, 157, 31, ]
+The buffer has 5 data now
+[consumer #3] consumes 175	Buffer [209, 243, -1, 157, 31, ]
+The buffer has 4 data now
+[consumer #0] consumes 157	Buffer [209, 243, -1, -1, 31, ]
+The buffer has 3 data now
+[producer #4] produces 92	Buffer [209, 243, 92, -1, 31, ]
+The buffer has 4 data now
+[producer #3] produces 2	Buffer [209, 243, 92, 2, 31, ]
+The buffer has 5 data now
+[consumer #2] consumes 31	Buffer [209, 243, 92, 2, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 209	Buffer [-1, 243, 92, 2, -1, ]
+The buffer has 3 data now
+[producer #1] produces 229	Buffer [-1, 243, 92, 2, 229, ]
+The buffer has 4 data now
+[producer #2] produces 53	Buffer [53, 243, 92, 2, 229, ]
+The buffer has 5 data now
+[consumer #1] consumes 243	Buffer [53, -1, 92, 2, 229, ]
+The buffer has 4 data now
+[consumer #2] consumes 92	Buffer [53, -1, -1, 2, 229, ]
+The buffer has 3 data now
+[producer #4] produces 39	Buffer [53, 39, -1, 2, 229, ]
+The buffer has 4 data now
+[producer #3] produces 192	Buffer [53, 39, 192, 2, 229, ]
+The buffer has 5 data now
+[consumer #4] consumes 2	Buffer [53, 39, 192, -1, 229, ]
+The buffer has 4 data now
+[producer #0] produces 49	Buffer [53, 39, 192, 49, 229, ]
+The buffer has 5 data now
+[consumer #3] consumes 229	Buffer [53, 39, 192, 49, -1, ]
+The buffer has 4 data now
+[producer #4] produces 189	Buffer [53, 39, 192, 49, 189, ]
+The buffer has 5 data now
+[consumer #0] consumes 53	Buffer [-1, 39, 192, 49, 189, ]
+The buffer has 4 data now
+[producer #1] produces 13	Buffer [13, 39, 192, 49, 189, ]
+The buffer has 5 data now
+[consumer #1] consumes 39	Buffer [13, -1, 192, 49, 189, ]
+The buffer has 4 data now
+[producer #2] produces 29	Buffer [13, 29, 192, 49, 189, ]
+The buffer has 5 data now
+[consumer #4] consumes 192	Buffer [13, 29, -1, 49, 189, ]
+The buffer has 4 data now
+[consumer #2] consumes 49	Buffer [13, 29, -1, -1, 189, ]
+The buffer has 3 data now
+[producer #3] produces 77	Buffer [13, 29, 77, -1, 189, ]
+The buffer has 4 data now
+[producer #0] produces 154	Buffer [13, 29, 77, 154, 189, ]
+The buffer has 5 data now
+[consumer #3] consumes 189	Buffer [13, 29, 77, 154, -1, ]
+The buffer has 4 data now
+[producer #4] produces 155	Buffer [13, 29, 77, 154, 155, ]
+The buffer has 5 data now
+[consumer #0] consumes 13	Buffer [-1, 29, 77, 154, 155, ]
+The buffer has 4 data now
+[producer #1] produces 193	Buffer [193, 29, 77, 154, 155, ]
+The buffer has 5 data now
+[consumer #1] consumes 29	Buffer [193, -1, 77, 154, 155, ]
+The buffer has 4 data now
+[producer #0] produces 254	Buffer [193, 254, 77, 154, 155, ]
+The buffer has 5 data now
+[consumer #2] consumes 77	Buffer [193, 254, -1, 154, 155, ]
+The buffer has 4 data now
+[producer #3] produces 114	Buffer [193, 254, 114, 154, 155, ]
+The buffer has 5 data now
+[consumer #4] consumes 154	Buffer [193, 254, 114, -1, 155, ]
+The buffer has 4 data now
+[consumer #3] consumes 155	Buffer [193, 254, 114, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 6	Buffer [193, 254, 114, 6, -1, ]
+The buffer has 4 data now
+[producer #4] produces 89	Buffer [193, 254, 114, 6, 89, ]
+The buffer has 5 data now
+[consumer #1] consumes 193	Buffer [-1, 254, 114, 6, 89, ]
+The buffer has 4 data now
+[producer #0] produces 49	Buffer [49, 254, 114, 6, 89, ]
+The buffer has 5 data now
+[consumer #0] consumes 254	Buffer [49, -1, 114, 6, 89, ]
+The buffer has 4 data now
+[consumer #4] consumes 114	Buffer [49, -1, -1, 6, 89, ]
+The buffer has 3 data now
+[producer #1] produces 222	Buffer [49, 222, -1, 6, 89, ]
+The buffer has 4 data now
+[producer #2] produces 74	Buffer [49, 222, 74, 6, 89, ]
+The buffer has 5 data now
+[consumer #2] consumes 6	Buffer [49, 222, 74, -1, 89, ]
+The buffer has 4 data now
+[consumer #3] consumes 89	Buffer [49, 222, 74, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 143	Buffer [49, 222, 74, 143, -1, ]
+The buffer has 4 data now
+[producer #0] produces 232	Buffer [49, 222, 74, 143, 232, ]
+The buffer has 5 data now
+[consumer #3] consumes 49	Buffer [-1, 222, 74, 143, 232, ]
+The buffer has 4 data now
+[consumer #1] consumes 222	Buffer [-1, -1, 74, 143, 232, ]
+The buffer has 3 data now
+[consumer #4] consumes 74	Buffer [-1, -1, -1, 143, 232, ]
+The buffer has 2 data now
+[producer #1] produces 227	Buffer [227, -1, -1, 143, 232, ]
+The buffer has 3 data now
+[producer #0] produces 166	Buffer [227, 166, -1, 143, 232, ]
+The buffer has 4 data now
+[producer #4] produces 222	Buffer [227, 166, 222, 143, 232, ]
+The buffer has 5 data now
+[consumer #0] consumes 143	Buffer [227, 166, 222, -1, 232, ]
+The buffer has 4 data now
+[producer #2] produces 20	Buffer [227, 166, 222, 20, 232, ]
+The buffer has 5 data now
+[consumer #2] consumes 232	Buffer [227, 166, 222, 20, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 227	Buffer [-1, 166, 222, 20, -1, ]
+The buffer has 3 data now
+[producer #0] produces 195	Buffer [-1, 166, 222, 20, 195, ]
+The buffer has 4 data now
+[producer #3] produces 125	Buffer [125, 166, 222, 20, 195, ]
+The buffer has 5 data now
+[consumer #1] consumes 166	Buffer [125, -1, 222, 20, 195, ]
+The buffer has 4 data now
+[consumer #3] consumes 222	Buffer [125, -1, -1, 20, 195, ]
+The buffer has 3 data now
+[producer #1] produces 229	Buffer [125, 229, -1, 20, 195, ]
+The buffer has 4 data now
+[producer #2] produces 184	Buffer [125, 229, 184, 20, 195, ]
+The buffer has 5 data now
+[consumer #2] consumes 20	Buffer [125, 229, 184, -1, 195, ]
+The buffer has 4 data now
+[consumer #4] consumes 195	Buffer [125, 229, 184, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 217	Buffer [125, 229, 184, 217, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 125	Buffer [-1, 229, 184, 217, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 229	Buffer [-1, -1, 184, 217, -1, ]
+The buffer has 2 data now
+[producer #4] produces 231	Buffer [-1, -1, 184, 217, 231, ]
+The buffer has 3 data now
+[producer #3] produces 30	Buffer [30, -1, 184, 217, 231, ]
+The buffer has 4 data now
+[producer #2] produces 16	Buffer [30, 16, 184, 217, 231, ]
+The buffer has 5 data now
+[consumer #1] consumes 184	Buffer [30, 16, -1, 217, 231, ]
+The buffer has 4 data now
+[producer #0] produces 143	Buffer [30, 16, 143, 217, 231, ]
+The buffer has 5 data now
+[consumer #0] consumes 217	Buffer [30, 16, 143, -1, 231, ]
+The buffer has 4 data now
+[consumer #3] consumes 231	Buffer [30, 16, 143, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 222	Buffer [30, 16, 143, 222, -1, ]
+The buffer has 4 data now
+[producer #1] produces 192	Buffer [30, 16, 143, 222, 192, ]
+The buffer has 5 data now
+[consumer #2] consumes 30	Buffer [-1, 16, 143, 222, 192, ]
+The buffer has 4 data now
+[consumer #4] consumes 16	Buffer [-1, -1, 143, 222, 192, ]
+The buffer has 3 data now
+[producer #0] produces 77	Buffer [77, -1, 143, 222, 192, ]
+The buffer has 4 data now
+[producer #3] produces 107	Buffer [77, 107, 143, 222, 192, ]
+The buffer has 5 data now
+[consumer #2] consumes 143	Buffer [77, 107, -1, 222, 192, ]
+The buffer has 4 data now
+[consumer #1] consumes 222	Buffer [77, 107, -1, -1, 192, ]
+The buffer has 3 data now
+[producer #2] produces 222	Buffer [77, 107, 222, -1, 192, ]
+The buffer has 4 data now
+[producer #4] produces 154	Buffer [77, 107, 222, 154, 192, ]
+The buffer has 5 data now
+[consumer #4] consumes 192	Buffer [77, 107, 222, 154, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 77	Buffer [-1, 107, 222, 154, -1, ]
+The buffer has 3 data now
+[producer #0] produces 6	Buffer [-1, 107, 222, 154, 6, ]
+The buffer has 4 data now
+[producer #2] produces 249	Buffer [249, 107, 222, 154, 6, ]
+The buffer has 5 data now
+[consumer #0] consumes 107	Buffer [249, -1, 222, 154, 6, ]
+The buffer has 4 data now
+[producer #4] produces 92	Buffer [249, 92, 222, 154, 6, ]
+The buffer has 5 data now
+[consumer #2] consumes 222	Buffer [249, 92, -1, 154, 6, ]
+The buffer has 4 data now
+[producer #1] produces 132	Buffer [249, 92, 132, 154, 6, ]
+The buffer has 5 data now
+[consumer #4] consumes 154	Buffer [249, 92, 132, -1, 6, ]
+The buffer has 4 data now
+[consumer #1] consumes 6	Buffer [249, 92, 132, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 109	Buffer [249, 92, 132, 109, -1, ]
+The buffer has 4 data now
+[producer #0] produces 226	Buffer [249, 92, 132, 109, 226, ]
+The buffer has 5 data now
+[consumer #3] consumes 249	Buffer [-1, 92, 132, 109, 226, ]
+The buffer has 4 data now
+[producer #3] produces 221	Buffer [221, 92, 132, 109, 226, ]
+The buffer has 5 data now
+[consumer #0] consumes 92	Buffer [221, -1, 132, 109, 226, ]
+The buffer has 4 data now
+[consumer #2] consumes 132	Buffer [221, -1, -1, 109, 226, ]
+The buffer has 3 data now
+[producer #4] produces 158	Buffer [221, 158, -1, 109, 226, ]
+The buffer has 4 data now
+[consumer #4] consumes 109	Buffer [221, 158, -1, -1, 226, ]
+The buffer has 3 data now
+[producer #1] produces 65	Buffer [221, 158, 65, -1, 226, ]
+The buffer has 4 data now
+[producer #2] produces 167	Buffer [221, 158, 65, 167, 226, ]
+The buffer has 5 data now
+[consumer #1] consumes 226	Buffer [221, 158, 65, 167, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 221	Buffer [-1, 158, 65, 167, -1, ]
+The buffer has 3 data now
+[producer #0] produces 46	Buffer [-1, 158, 65, 167, 46, ]
+The buffer has 4 data now
+[producer #3] produces 42	Buffer [42, 158, 65, 167, 46, ]
+The buffer has 5 data now
+[consumer #0] consumes 158	Buffer [42, -1, 65, 167, 46, ]
+The buffer has 4 data now
+[consumer #3] consumes 65	Buffer [42, -1, -1, 167, 46, ]
+The buffer has 3 data now
+[producer #1] produces 12	Buffer [42, 12, -1, 167, 46, ]
+The buffer has 4 data now
+[producer #2] produces 84	Buffer [42, 12, 84, 167, 46, ]
+The buffer has 5 data now
+[consumer #4] consumes 167	Buffer [42, 12, 84, -1, 46, ]
+The buffer has 4 data now
+[consumer #2] consumes 46	Buffer [42, 12, 84, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 136	Buffer [42, 12, 84, 136, -1, ]
+The buffer has 4 data now
+[producer #3] produces 159	Buffer [42, 12, 84, 136, 159, ]
+The buffer has 5 data now
+[consumer #0] consumes 42	Buffer [-1, 12, 84, 136, 159, ]
+The buffer has 4 data now
+[consumer #1] consumes 12	Buffer [-1, -1, 84, 136, 159, ]
+The buffer has 3 data now
+[consumer #3] consumes 84	Buffer [-1, -1, -1, 136, 159, ]
+The buffer has 2 data now
+[producer #2] produces 151	Buffer [151, -1, -1, 136, 159, ]
+The buffer has 3 data now
+[producer #1] produces 7	Buffer [151, 7, -1, 136, 159, ]
+The buffer has 4 data now
+[producer #0] produces 133	Buffer [151, 7, 133, 136, 159, ]
+The buffer has 5 data now
+[consumer #4] consumes 136	Buffer [151, 7, 133, -1, 159, ]
+The buffer has 4 data now
+[producer #3] produces 80	Buffer [151, 7, 133, 80, 159, ]
+The buffer has 5 data now
+[consumer #0] consumes 159	Buffer [151, 7, 133, 80, -1, ]
+The buffer has 4 data now
+[producer #2] produces 96	Buffer [151, 7, 133, 80, 96, ]
+The buffer has 5 data now
+[consumer #2] consumes 151	Buffer [-1, 7, 133, 80, 96, ]
+The buffer has 4 data now
+[consumer #1] consumes 7	Buffer [-1, -1, 133, 80, 96, ]
+The buffer has 3 data now
+[producer #0] produces 236	Buffer [236, -1, 133, 80, 96, ]
+The buffer has 4 data now
+[producer #1] produces 237	Buffer [236, 237, 133, 80, 96, ]
+The buffer has 5 data now
+[consumer #3] consumes 133	Buffer [236, 237, -1, 80, 96, ]
+The buffer has 4 data now
+[producer #4] produces 239	Buffer [236, 237, 239, 80, 96, ]
+The buffer has 5 data now
+[consumer #0] consumes 80	Buffer [236, 237, 239, -1, 96, ]
+The buffer has 4 data now
+[consumer #4] consumes 96	Buffer [236, 237, 239, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 124	Buffer [236, 237, 239, 124, -1, ]
+The buffer has 4 data now
+[producer #2] produces 76	Buffer [236, 237, 239, 124, 76, ]
+The buffer has 5 data now
+[consumer #1] consumes 236	Buffer [-1, 237, 239, 124, 76, ]
+The buffer has 4 data now
+[consumer #3] consumes 237	Buffer [-1, -1, 239, 124, 76, ]
+The buffer has 3 data now
+[producer #0] produces 177	Buffer [177, -1, 239, 124, 76, ]
+The buffer has 4 data now
+[consumer #2] consumes 239	Buffer [177, -1, -1, 124, 76, ]
+The buffer has 3 data now
+[producer #1] produces 74	Buffer [177, 74, -1, 124, 76, ]
+The buffer has 4 data now
+[producer #4] produces 183	Buffer [177, 74, 183, 124, 76, ]
+The buffer has 5 data now
+[consumer #3] consumes 124	Buffer [177, 74, 183, -1, 76, ]
+The buffer has 4 data now
+[producer #2] produces 144	Buffer [177, 74, 183, 144, 76, ]
+The buffer has 5 data now
+[consumer #4] consumes 76	Buffer [177, 74, 183, 144, -1, ]
+The buffer has 4 data now
+[producer #1] produces 100	Buffer [177, 74, 183, 144, 100, ]
+The buffer has 5 data now
+[consumer #1] consumes 177	Buffer [-1, 74, 183, 144, 100, ]
+The buffer has 4 data now
+[consumer #0] consumes 74	Buffer [-1, -1, 183, 144, 100, ]
+The buffer has 3 data now
+[consumer #3] consumes 183	Buffer [-1, -1, -1, 144, 100, ]
+The buffer has 2 data now
+[producer #0] produces 62	Buffer [62, -1, -1, 144, 100, ]
+The buffer has 3 data now
+[producer #3] produces 138	Buffer [62, 138, -1, 144, 100, ]
+The buffer has 4 data now
+[consumer #1] consumes 144	Buffer [62, 138, -1, -1, 100, ]
+The buffer has 3 data now
+[consumer #2] consumes 100	Buffer [62, 138, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 65	Buffer [62, 138, 65, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 194	Buffer [62, 138, 65, 194, -1, ]
+The buffer has 4 data now
+[producer #1] produces 119	Buffer [62, 138, 65, 194, 119, ]
+The buffer has 5 data now
+[consumer #4] consumes 62	Buffer [-1, 138, 65, 194, 119, ]
+The buffer has 4 data now
+[consumer #0] consumes 138	Buffer [-1, -1, 65, 194, 119, ]
+The buffer has 3 data now
+[producer #4] produces 36	Buffer [36, -1, 65, 194, 119, ]
+The buffer has 4 data now
+[producer #2] produces 33	Buffer [36, 33, 65, 194, 119, ]
+The buffer has 5 data now
+[consumer #3] consumes 65	Buffer [36, 33, -1, 194, 119, ]
+The buffer has 4 data now
+[consumer #2] consumes 194	Buffer [36, 33, -1, -1, 119, ]
+The buffer has 3 data now
+[producer #3] produces 22	Buffer [36, 33, 22, -1, 119, ]
+The buffer has 4 data now
+[producer #0] produces 228	Buffer [36, 33, 22, 228, 119, ]
+The buffer has 5 data now
+[consumer #1] consumes 119	Buffer [36, 33, 22, 228, -1, ]
+The buffer has 4 data now
+[producer #4] produces 72	Buffer [36, 33, 22, 228, 72, ]
+The buffer has 5 data now
+[consumer #1] consumes 36	Buffer [-1, 33, 22, 228, 72, ]
+The buffer has 4 data now
+[consumer #4] consumes 33	Buffer [-1, -1, 22, 228, 72, ]
+The buffer has 3 data now
+[consumer #0] consumes 22	Buffer [-1, -1, -1, 228, 72, ]
+The buffer has 2 data now
+[consumer #2] consumes 228	Buffer [-1, -1, -1, -1, 72, ]
+The buffer has 1 data now
+[consumer #3] consumes 72	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 195	Buffer [195, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 142	Buffer [195, 142, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 211	Buffer [195, 142, 211, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 24	Buffer [195, 142, 211, 24, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 195	Buffer [-1, 142, 211, 24, -1, ]
+The buffer has 3 data now
+[producer #1] produces 151	Buffer [-1, 142, 211, 24, 151, ]
+The buffer has 4 data now
+[producer #4] produces 115	Buffer [115, 142, 211, 24, 151, ]
+The buffer has 5 data now
+[consumer #1] consumes 142	Buffer [115, -1, 211, 24, 151, ]
+The buffer has 4 data now
+[producer #2] produces 176	Buffer [115, 176, 211, 24, 151, ]
+The buffer has 5 data now
+[consumer #4] consumes 211	Buffer [115, 176, -1, 24, 151, ]
+The buffer has 4 data now
+[consumer #3] consumes 24	Buffer [115, 176, -1, -1, 151, ]
+The buffer has 3 data now
+[consumer #2] consumes 151	Buffer [115, 176, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 158	Buffer [115, 176, 158, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 248	Buffer [115, 176, 158, 248, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 115	Buffer [-1, 176, 158, 248, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 176	Buffer [-1, -1, 158, 248, -1, ]
+The buffer has 2 data now
+[producer #4] produces 128	Buffer [-1, -1, 158, 248, 128, ]
+The buffer has 3 data now
+[consumer #2] consumes 158	Buffer [-1, -1, -1, 248, 128, ]
+The buffer has 2 data now
+[consumer #4] consumes 248	Buffer [-1, -1, -1, -1, 128, ]
+The buffer has 1 data now
+[consumer #0] consumes 128	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 254	Buffer [254, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 102	Buffer [254, 102, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 111	Buffer [254, 102, 111, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 254	Buffer [-1, 102, 111, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 239	Buffer [-1, 102, 111, 239, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 102	Buffer [-1, -1, 111, 239, -1, ]
+The buffer has 2 data now
+[producer #3] produces 98	Buffer [-1, -1, 111, 239, 98, ]
+The buffer has 3 data now
+[producer #4] produces 187	Buffer [187, -1, 111, 239, 98, ]
+The buffer has 4 data now
+[consumer #0] consumes 111	Buffer [187, -1, -1, 239, 98, ]
+The buffer has 3 data now
+[consumer #2] consumes 239	Buffer [187, -1, -1, -1, 98, ]
+The buffer has 2 data now
+[producer #2] produces 33	Buffer [187, 33, -1, -1, 98, ]
+The buffer has 3 data now
+[producer #0] produces 172	Buffer [187, 33, 172, -1, 98, ]
+The buffer has 4 data now
+[consumer #1] consumes 98	Buffer [187, 33, 172, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 187	Buffer [-1, 33, 172, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 243	Buffer [-1, 33, 172, 243, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 33	Buffer [-1, -1, 172, 243, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 172	Buffer [-1, -1, -1, 243, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 243	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 177	Buffer [-1, -1, -1, -1, 177, ]
+The buffer has 1 data now
+[producer #4] produces 18	Buffer [18, -1, -1, -1, 177, ]
+The buffer has 2 data now
+[producer #0] produces 50	Buffer [18, 50, -1, -1, 177, ]
+The buffer has 3 data now
+[producer #2] produces 187	Buffer [18, 50, 187, -1, 177, ]
+The buffer has 4 data now
+[producer #1] produces 83	Buffer [18, 50, 187, 83, 177, ]
+The buffer has 5 data now
+[consumer #3] consumes 177	Buffer [18, 50, 187, 83, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 18	Buffer [-1, 50, 187, 83, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 50	Buffer [-1, -1, 187, 83, -1, ]
+The buffer has 2 data now
+[producer #4] produces 116	Buffer [-1, -1, 187, 83, 116, ]
+The buffer has 3 data now
+[consumer #1] consumes 187	Buffer [-1, -1, -1, 83, 116, ]
+The buffer has 2 data now
+[producer #3] produces 52	Buffer [52, -1, -1, 83, 116, ]
+The buffer has 3 data now
+[producer #0] produces 246	Buffer [52, 246, -1, 83, 116, ]
+The buffer has 4 data now
+[consumer #0] consumes 83	Buffer [52, 246, -1, -1, 116, ]
+The buffer has 3 data now
+[consumer #2] consumes 116	Buffer [52, 246, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 52	Buffer [-1, 246, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 21	Buffer [-1, 246, 21, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 246	Buffer [-1, -1, 21, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 74	Buffer [-1, -1, 21, 74, -1, ]
+The buffer has 2 data now
+[producer #0] produces 91	Buffer [-1, -1, 21, 74, 91, ]
+The buffer has 3 data now
+[consumer #1] consumes 21	Buffer [-1, -1, -1, 74, 91, ]
+The buffer has 2 data now
+[producer #1] produces 221	Buffer [221, -1, -1, 74, 91, ]
+The buffer has 3 data now
+[producer #3] produces 15	Buffer [221, 15, -1, 74, 91, ]
+The buffer has 4 data now
+[producer #0] produces 233	Buffer [221, 15, 233, 74, 91, ]
+The buffer has 5 data now
+[consumer #2] consumes 74	Buffer [221, 15, 233, -1, 91, ]
+The buffer has 4 data now
+[consumer #0] consumes 91	Buffer [221, 15, 233, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 221	Buffer [-1, 15, 233, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 15	Buffer [-1, -1, 233, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 233	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 177	Buffer [-1, -1, -1, 177, -1, ]
+The buffer has 1 data now
+[producer #4] produces 166	Buffer [-1, -1, -1, 177, 166, ]
+The buffer has 2 data now
+[producer #0] produces 129	Buffer [129, -1, -1, 177, 166, ]
+The buffer has 3 data now
+[producer #1] produces 38	Buffer [129, 38, -1, 177, 166, ]
+The buffer has 4 data now
+[consumer #0] consumes 177	Buffer [129, 38, -1, -1, 166, ]
+The buffer has 3 data now
+[consumer #2] consumes 166	Buffer [129, 38, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 214	Buffer [129, 38, 214, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 159	Buffer [129, 38, 214, 159, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 129	Buffer [-1, 38, 214, 159, -1, ]
+The buffer has 3 data now
+[producer #4] produces 158	Buffer [-1, 38, 214, 159, 158, ]
+The buffer has 4 data now
+[consumer #3] consumes 38	Buffer [-1, -1, 214, 159, 158, ]
+The buffer has 3 data now
+[producer #2] produces 88	Buffer [88, -1, 214, 159, 158, ]
+The buffer has 4 data now
+[producer #4] produces 31	Buffer [88, 31, 214, 159, 158, ]
+The buffer has 5 data now
+[consumer #0] consumes 214	Buffer [88, 31, -1, 159, 158, ]
+The buffer has 4 data now
+[consumer #4] consumes 159	Buffer [88, 31, -1, -1, 158, ]
+The buffer has 3 data now
+[producer #0] produces 5	Buffer [88, 31, 5, -1, 158, ]
+The buffer has 4 data now
+[consumer #0] consumes 158	Buffer [88, 31, 5, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 71	Buffer [88, 31, 5, 71, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 88	Buffer [-1, 31, 5, 71, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 31	Buffer [-1, -1, 5, 71, -1, ]
+The buffer has 2 data now
+[producer #3] produces 142	Buffer [-1, -1, 5, 71, 142, ]
+The buffer has 3 data now
+[producer #4] produces 104	Buffer [104, -1, 5, 71, 142, ]
+The buffer has 4 data now
+[producer #2] produces 130	Buffer [104, 130, 5, 71, 142, ]
+The buffer has 5 data now
+[consumer #3] consumes 5	Buffer [104, 130, -1, 71, 142, ]
+The buffer has 4 data now
+[producer #0] produces 175	Buffer [104, 130, 175, 71, 142, ]
+The buffer has 5 data now
+[consumer #0] consumes 71	Buffer [104, 130, 175, -1, 142, ]
+The buffer has 4 data now
+[consumer #4] consumes 142	Buffer [104, 130, 175, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 148	Buffer [104, 130, 175, 148, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 104	Buffer [-1, 130, 175, 148, -1, ]
+The buffer has 3 data now
+[producer #2] produces 245	Buffer [-1, 130, 175, 148, 245, ]
+The buffer has 4 data now
+[producer #1] produces 224	Buffer [224, 130, 175, 148, 245, ]
+The buffer has 5 data now
+[consumer #2] consumes 130	Buffer [224, -1, 175, 148, 245, ]
+The buffer has 4 data now
+[consumer #3] consumes 175	Buffer [224, -1, -1, 148, 245, ]
+The buffer has 3 data now
+[producer #3] produces 38	Buffer [224, 38, -1, 148, 245, ]
+The buffer has 4 data now
+[producer #4] produces 167	Buffer [224, 38, 167, 148, 245, ]
+The buffer has 5 data now
+[consumer #0] consumes 148	Buffer [224, 38, 167, -1, 245, ]
+The buffer has 4 data now
+[consumer #4] consumes 245	Buffer [224, 38, 167, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 156	Buffer [224, 38, 167, 156, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 224	Buffer [-1, 38, 167, 156, -1, ]
+The buffer has 3 data now
+[producer #4] produces 248	Buffer [-1, 38, 167, 156, 248, ]
+The buffer has 4 data now
+[producer #0] produces 29	Buffer [29, 38, 167, 156, 248, ]
+The buffer has 5 data now
+[consumer #3] consumes 38	Buffer [29, -1, 167, 156, 248, ]
+The buffer has 4 data now
+[producer #2] produces 80	Buffer [29, 80, 167, 156, 248, ]
+The buffer has 5 data now
+[consumer #2] consumes 167	Buffer [29, 80, -1, 156, 248, ]
+The buffer has 4 data now
+[consumer #1] consumes 156	Buffer [29, 80, -1, -1, 248, ]
+The buffer has 3 data now
+[producer #3] produces 111	Buffer [29, 80, 111, -1, 248, ]
+The buffer has 4 data now
+[consumer #2] consumes 248	Buffer [29, 80, 111, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 29	Buffer [-1, 80, 111, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 177	Buffer [-1, 80, 111, 177, -1, ]
+The buffer has 3 data now
+[producer #0] produces 27	Buffer [-1, 80, 111, 177, 27, ]
+The buffer has 4 data now
+[producer #4] produces 202	Buffer [202, 80, 111, 177, 27, ]
+The buffer has 5 data now
+[consumer #4] consumes 80	Buffer [202, -1, 111, 177, 27, ]
+The buffer has 4 data now
+[consumer #1] consumes 111	Buffer [202, -1, -1, 177, 27, ]
+The buffer has 3 data now
+[consumer #3] consumes 177	Buffer [202, -1, -1, -1, 27, ]
+The buffer has 2 data now
+[producer #3] produces 143	Buffer [202, 143, -1, -1, 27, ]
+The buffer has 3 data now
+[producer #2] produces 169	Buffer [202, 143, 169, -1, 27, ]
+The buffer has 4 data now
+[producer #0] produces 53	Buffer [202, 143, 169, 53, 27, ]
+The buffer has 5 data now
+[consumer #0] consumes 27	Buffer [202, 143, 169, 53, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 202	Buffer [-1, 143, 169, 53, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 143	Buffer [-1, -1, 169, 53, -1, ]
+The buffer has 2 data now
+[producer #2] produces 193	Buffer [-1, -1, 169, 53, 193, ]
+The buffer has 3 data now
+[producer #4] produces 80	Buffer [80, -1, 169, 53, 193, ]
+The buffer has 4 data now
+[producer #1] produces 54	Buffer [80, 54, 169, 53, 193, ]
+The buffer has 5 data now
+[consumer #2] consumes 169	Buffer [80, 54, -1, 53, 193, ]
+The buffer has 4 data now
+[consumer #3] consumes 53	Buffer [80, 54, -1, -1, 193, ]
+The buffer has 3 data now
+[producer #3] produces 231	Buffer [80, 54, 231, -1, 193, ]
+The buffer has 4 data now
+[consumer #3] consumes 193	Buffer [80, 54, 231, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 167	Buffer [80, 54, 231, 167, -1, ]
+The buffer has 4 data now
+[producer #0] produces 86	Buffer [80, 54, 231, 167, 86, ]
+The buffer has 5 data now
+[consumer #3] consumes 80	Buffer [-1, 54, 231, 167, 86, ]
+The buffer has 4 data now
+[consumer #1] consumes 54	Buffer [-1, -1, 231, 167, 86, ]
+The buffer has 3 data now
+[producer #4] produces 6	Buffer [6, -1, 231, 167, 86, ]
+The buffer has 4 data now
+[producer #3] produces 127	Buffer [6, 127, 231, 167, 86, ]
+The buffer has 5 data now
+[consumer #4] consumes 231	Buffer [6, 127, -1, 167, 86, ]
+The buffer has 4 data now
+[producer #2] produces 117	Buffer [6, 127, 117, 167, 86, ]
+The buffer has 5 data now
+[consumer #0] consumes 167	Buffer [6, 127, 117, -1, 86, ]
+The buffer has 4 data now
+[producer #1] produces 12	Buffer [6, 127, 117, 12, 86, ]
+The buffer has 5 data now
+[consumer #2] consumes 86	Buffer [6, 127, 117, 12, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 6	Buffer [-1, 127, 117, 12, -1, ]
+The buffer has 3 data now
+[producer #3] produces 198	Buffer [-1, 127, 117, 12, 198, ]
+The buffer has 4 data now
+[producer #0] produces 131	Buffer [131, 127, 117, 12, 198, ]
+The buffer has 5 data now
+[consumer #1] consumes 127	Buffer [131, -1, 117, 12, 198, ]
+The buffer has 4 data now
+[producer #4] produces 243	Buffer [131, 243, 117, 12, 198, ]
+The buffer has 5 data now
+[consumer #4] consumes 117	Buffer [131, 243, -1, 12, 198, ]
+The buffer has 4 data now
+[producer #1] produces 200	Buffer [131, 243, 200, 12, 198, ]
+The buffer has 5 data now
+[consumer #0] consumes 12	Buffer [131, 243, 200, -1, 198, ]
+The buffer has 4 data now
+[consumer #3] consumes 198	Buffer [131, 243, 200, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 131	Buffer [-1, 243, 200, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 51	Buffer [-1, 243, 200, 51, -1, ]
+The buffer has 3 data now
+[producer #3] produces 8	Buffer [-1, 243, 200, 51, 8, ]
+The buffer has 4 data now
+[producer #4] produces 191	Buffer [191, 243, 200, 51, 8, ]
+The buffer has 5 data now
+[consumer #0] consumes 243	Buffer [191, -1, 200, 51, 8, ]
+The buffer has 4 data now
+[consumer #1] consumes 200	Buffer [191, -1, -1, 51, 8, ]
+The buffer has 3 data now
+[producer #0] produces 20	Buffer [191, 20, -1, 51, 8, ]
+The buffer has 4 data now
+[producer #1] produces 47	Buffer [191, 20, 47, 51, 8, ]
+The buffer has 5 data now
+[consumer #2] consumes 51	Buffer [191, 20, 47, -1, 8, ]
+The buffer has 4 data now
+[consumer #4] consumes 8	Buffer [191, 20, 47, -1, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 191	Buffer [-1, 20, 47, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 103	Buffer [-1, 20, 47, 103, -1, ]
+The buffer has 3 data now
+[producer #4] produces 48	Buffer [-1, 20, 47, 103, 48, ]
+The buffer has 4 data now
+[producer #3] produces 167	Buffer [167, 20, 47, 103, 48, ]
+The buffer has 5 data now
+[consumer #2] consumes 20	Buffer [167, -1, 47, 103, 48, ]
+The buffer has 4 data now
+[producer #0] produces 4	Buffer [167, 4, 47, 103, 48, ]
+The buffer has 5 data now
+[consumer #1] consumes 47	Buffer [167, 4, -1, 103, 48, ]
+The buffer has 4 data now
+[producer #4] produces 1	Buffer [167, 4, 1, 103, 48, ]
+The buffer has 5 data now
+[consumer #0] consumes 103	Buffer [167, 4, 1, -1, 48, ]
+The buffer has 4 data now
+[producer #1] produces 24	Buffer [167, 4, 1, 24, 48, ]
+The buffer has 5 data now
+[consumer #4] consumes 48	Buffer [167, 4, 1, 24, -1, ]
+The buffer has 4 data now
+[producer #2] produces 182	Buffer [167, 4, 1, 24, 182, ]
+The buffer has 5 data now
+[consumer #3] consumes 167	Buffer [-1, 4, 1, 24, 182, ]
+The buffer has 4 data now
+[consumer #2] consumes 4	Buffer [-1, -1, 1, 24, 182, ]
+The buffer has 3 data now
+[producer #3] produces 28	Buffer [28, -1, 1, 24, 182, ]
+The buffer has 4 data now
+[producer #4] produces 98	Buffer [28, 98, 1, 24, 182, ]
+The buffer has 5 data now
+[consumer #2] consumes 1	Buffer [28, 98, -1, 24, 182, ]
+The buffer has 4 data now
+[producer #0] produces 197	Buffer [28, 98, 197, 24, 182, ]
+The buffer has 5 data now
+[consumer #1] consumes 24	Buffer [28, 98, 197, -1, 182, ]
+The buffer has 4 data now
+[producer #1] produces 197	Buffer [28, 98, 197, 197, 182, ]
+The buffer has 5 data now
+[consumer #4] consumes 182	Buffer [28, 98, 197, 197, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 28	Buffer [-1, 98, 197, 197, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 98	Buffer [-1, -1, 197, 197, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 197	Buffer [-1, -1, -1, 197, -1, ]
+The buffer has 1 data now
+[producer #2] produces 23	Buffer [-1, -1, -1, 197, 23, ]
+The buffer has 2 data now
+[producer #3] produces 135	Buffer [135, -1, -1, 197, 23, ]
+The buffer has 3 data now
+[consumer #1] consumes 197	Buffer [135, -1, -1, -1, 23, ]
+The buffer has 2 data now
+[producer #4] produces 149	Buffer [135, 149, -1, -1, 23, ]
+The buffer has 3 data now
+[producer #0] produces 78	Buffer [135, 149, 78, -1, 23, ]
+The buffer has 4 data now
+[consumer #0] consumes 23	Buffer [135, 149, 78, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 238	Buffer [135, 149, 78, 238, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 135	Buffer [-1, 149, 78, 238, -1, ]
+The buffer has 3 data now
+[producer #1] produces 61	Buffer [-1, 149, 78, 238, 61, ]
+The buffer has 4 data now
+[consumer #3] consumes 149	Buffer [-1, -1, 78, 238, 61, ]
+The buffer has 3 data now
+[consumer #1] consumes 78	Buffer [-1, -1, -1, 238, 61, ]
+The buffer has 2 data now
+[producer #0] produces 36	Buffer [36, -1, -1, 238, 61, ]
+The buffer has 3 data now
+[producer #3] produces 245	Buffer [36, 245, -1, 238, 61, ]
+The buffer has 4 data now
+[consumer #2] consumes 238	Buffer [36, 245, -1, -1, 61, ]
+The buffer has 3 data now
+[consumer #3] consumes 61	Buffer [36, 245, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 188	Buffer [36, 245, 188, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 153	Buffer [36, 245, 188, 153, -1, ]
+The buffer has 4 data now
+[producer #4] produces 129	Buffer [36, 245, 188, 153, 129, ]
+The buffer has 5 data now
+[consumer #4] consumes 36	Buffer [-1, 245, 188, 153, 129, ]
+The buffer has 4 data now
+[consumer #0] consumes 245	Buffer [-1, -1, 188, 153, 129, ]
+The buffer has 3 data now
+[consumer #2] consumes 188	Buffer [-1, -1, -1, 153, 129, ]
+The buffer has 2 data now
+[producer #3] produces 3	Buffer [3, -1, -1, 153, 129, ]
+The buffer has 3 data now
+[consumer #1] consumes 153	Buffer [3, -1, -1, -1, 129, ]
+The buffer has 2 data now
+[producer #0] produces 29	Buffer [3, 29, -1, -1, 129, ]
+The buffer has 3 data now
+[producer #1] produces 117	Buffer [3, 29, 117, -1, 129, ]
+The buffer has 4 data now
+[producer #2] produces 76	Buffer [3, 29, 117, 76, 129, ]
+The buffer has 5 data now
+[consumer #3] consumes 129	Buffer [3, 29, 117, 76, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 3	Buffer [-1, 29, 117, 76, -1, ]
+The buffer has 3 data now
+[producer #4] produces 207	Buffer [-1, 29, 117, 76, 207, ]
+The buffer has 4 data now
+[producer #1] produces 252	Buffer [252, 29, 117, 76, 207, ]
+The buffer has 5 data now
+[consumer #3] consumes 29	Buffer [252, -1, 117, 76, 207, ]
+The buffer has 4 data now
+[consumer #2] consumes 117	Buffer [252, -1, -1, 76, 207, ]
+The buffer has 3 data now
+[producer #0] produces 12	Buffer [252, 12, -1, 76, 207, ]
+The buffer has 4 data now
+[consumer #0] consumes 76	Buffer [252, 12, -1, -1, 207, ]
+The buffer has 3 data now
+[producer #1] produces 99	Buffer [252, 12, 99, -1, 207, ]
+The buffer has 4 data now
+[producer #2] produces 171	Buffer [252, 12, 99, 171, 207, ]
+The buffer has 5 data now
+[consumer #1] consumes 207	Buffer [252, 12, 99, 171, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 252	Buffer [-1, 12, 99, 171, -1, ]
+The buffer has 3 data now
+[producer #3] produces 242	Buffer [-1, 12, 99, 171, 242, ]
+The buffer has 4 data now
+[consumer #3] consumes 12	Buffer [-1, -1, 99, 171, 242, ]
+The buffer has 3 data now
+[consumer #0] consumes 99	Buffer [-1, -1, -1, 171, 242, ]
+The buffer has 2 data now
+[producer #3] produces 19	Buffer [19, -1, -1, 171, 242, ]
+The buffer has 3 data now
+[producer #4] produces 84	Buffer [19, 84, -1, 171, 242, ]
+The buffer has 4 data now
+[consumer #1] consumes 171	Buffer [19, 84, -1, -1, 242, ]
+The buffer has 3 data now
+[producer #0] produces 247	Buffer [19, 84, 247, -1, 242, ]
+The buffer has 4 data now
+[producer #2] produces 20	Buffer [19, 84, 247, 20, 242, ]
+The buffer has 5 data now
+[consumer #0] consumes 242	Buffer [19, 84, 247, 20, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 19	Buffer [-1, 84, 247, 20, -1, ]
+The buffer has 3 data now
+[producer #1] produces 235	Buffer [-1, 84, 247, 20, 235, ]
+The buffer has 4 data now
+[producer #3] produces 46	Buffer [46, 84, 247, 20, 235, ]
+The buffer has 5 data now
+[consumer #4] consumes 84	Buffer [46, -1, 247, 20, 235, ]
+The buffer has 4 data now
+[consumer #3] consumes 247	Buffer [46, -1, -1, 20, 235, ]
+The buffer has 3 data now
+[consumer #0] consumes 20	Buffer [46, -1, -1, -1, 235, ]
+The buffer has 2 data now
+[producer #1] produces 48	Buffer [46, 48, -1, -1, 235, ]
+The buffer has 3 data now
+[producer #4] produces 78	Buffer [46, 48, 78, -1, 235, ]
+The buffer has 4 data now
+[producer #0] produces 243	Buffer [46, 48, 78, 243, 235, ]
+The buffer has 5 data now
+[consumer #4] consumes 235	Buffer [46, 48, 78, 243, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 46	Buffer [-1, 48, 78, 243, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 48	Buffer [-1, -1, 78, 243, -1, ]
+The buffer has 2 data now
+[producer #2] produces 117	Buffer [-1, -1, 78, 243, 117, ]
+The buffer has 3 data now
+[producer #3] produces 102	Buffer [102, -1, 78, 243, 117, ]
+The buffer has 4 data now
+[consumer #3] consumes 78	Buffer [102, -1, -1, 243, 117, ]
+The buffer has 3 data now
+[consumer #1] consumes 243	Buffer [102, -1, -1, -1, 117, ]
+The buffer has 2 data now
+[consumer #0] consumes 117	Buffer [102, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 251	Buffer [102, 251, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 139	Buffer [102, 251, 139, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 102	Buffer [-1, 251, 139, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 52	Buffer [-1, 251, 139, 52, -1, ]
+The buffer has 3 data now
+[producer #1] produces 234	Buffer [-1, 251, 139, 52, 234, ]
+The buffer has 4 data now
+[producer #2] produces 72	Buffer [72, 251, 139, 52, 234, ]
+The buffer has 5 data now
+[consumer #2] consumes 251	Buffer [72, -1, 139, 52, 234, ]
+The buffer has 4 data now
+[consumer #3] consumes 139	Buffer [72, -1, -1, 52, 234, ]
+The buffer has 3 data now
+[consumer #1] consumes 52	Buffer [72, -1, -1, -1, 234, ]
+The buffer has 2 data now
+[producer #0] produces 88	Buffer [72, 88, -1, -1, 234, ]
+The buffer has 3 data now
+[producer #3] produces 96	Buffer [72, 88, 96, -1, 234, ]
+The buffer has 4 data now
+[consumer #1] consumes 234	Buffer [72, 88, 96, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 133	Buffer [72, 88, 96, 133, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 72	Buffer [-1, 88, 96, 133, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 88	Buffer [-1, -1, 96, 133, -1, ]
+The buffer has 2 data now
+[producer #4] produces 113	Buffer [-1, -1, 96, 133, 113, ]
+The buffer has 3 data now
+[producer #1] produces 225	Buffer [225, -1, 96, 133, 113, ]
+The buffer has 4 data now
+[consumer #4] consumes 96	Buffer [225, -1, -1, 133, 113, ]
+The buffer has 3 data now
+[consumer #1] consumes 133	Buffer [225, -1, -1, -1, 113, ]
+The buffer has 2 data now
+[consumer #3] consumes 113	Buffer [225, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 8	Buffer [225, 8, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 14	Buffer [225, 8, 14, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 225	Buffer [-1, 8, 14, -1, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 8	Buffer [-1, -1, 14, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 214	Buffer [-1, -1, 14, 214, -1, ]
+The buffer has 2 data now
+[producer #1] produces 84	Buffer [-1, -1, 14, 214, 84, ]
+The buffer has 3 data now
+[producer #4] produces 221	Buffer [221, -1, 14, 214, 84, ]
+The buffer has 4 data now
+[consumer #3] consumes 14	Buffer [221, -1, -1, 214, 84, ]
+The buffer has 3 data now
+[consumer #0] consumes 214	Buffer [221, -1, -1, -1, 84, ]
+The buffer has 2 data now
+[consumer #1] consumes 84	Buffer [221, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 212	Buffer [221, 212, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 223	Buffer [221, 212, 223, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 192	Buffer [221, 212, 223, 192, -1, ]
+The buffer has 4 data now
+[producer #4] produces 128	Buffer [221, 212, 223, 192, 128, ]
+The buffer has 5 data now
+[consumer #0] consumes 221	Buffer [-1, 212, 223, 192, 128, ]
+The buffer has 4 data now
+[consumer #2] consumes 212	Buffer [-1, -1, 223, 192, 128, ]
+The buffer has 3 data now
+[producer #1] produces 211	Buffer [211, -1, 223, 192, 128, ]
+The buffer has 4 data now
+[consumer #4] consumes 223	Buffer [211, -1, -1, 192, 128, ]
+The buffer has 3 data now
+[consumer #1] consumes 192	Buffer [211, -1, -1, -1, 128, ]
+The buffer has 2 data now
+[producer #3] produces 211	Buffer [211, 211, -1, -1, 128, ]
+The buffer has 3 data now
+[consumer #3] consumes 128	Buffer [211, 211, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 84	Buffer [211, 211, 84, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 211	Buffer [-1, 211, 84, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 75	Buffer [-1, 211, 84, 75, -1, ]
+The buffer has 3 data now
+[producer #1] produces 232	Buffer [-1, 211, 84, 75, 232, ]
+The buffer has 4 data now
+[consumer #1] consumes 211	Buffer [-1, -1, 84, 75, 232, ]
+The buffer has 3 data now
+[consumer #0] consumes 84	Buffer [-1, -1, -1, 75, 232, ]
+The buffer has 2 data now
+[producer #4] produces 64	Buffer [64, -1, -1, 75, 232, ]
+The buffer has 3 data now
+[producer #2] produces 121	Buffer [64, 121, -1, 75, 232, ]
+The buffer has 4 data now
+[consumer #3] consumes 75	Buffer [64, 121, -1, -1, 232, ]
+The buffer has 3 data now
+[consumer #2] consumes 232	Buffer [64, 121, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 64	Buffer [-1, 121, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 152	Buffer [-1, 121, 152, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 121	Buffer [-1, -1, 152, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 143	Buffer [-1, -1, 152, 143, -1, ]
+The buffer has 2 data now
+[producer #3] produces 236	Buffer [-1, -1, 152, 143, 236, ]
+The buffer has 3 data now
+[producer #4] produces 142	Buffer [142, -1, 152, 143, 236, ]
+The buffer has 4 data now
+[producer #1] produces 117	Buffer [142, 117, 152, 143, 236, ]
+The buffer has 5 data now
+[consumer #4] consumes 152	Buffer [142, 117, -1, 143, 236, ]
+The buffer has 4 data now
+[consumer #0] consumes 143	Buffer [142, 117, -1, -1, 236, ]
+The buffer has 3 data now
+[consumer #2] consumes 236	Buffer [142, 117, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 104	Buffer [142, 117, 104, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 26	Buffer [142, 117, 104, 26, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 142	Buffer [-1, 117, 104, 26, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 117	Buffer [-1, -1, 104, 26, -1, ]
+The buffer has 2 data now
+[producer #3] produces 41	Buffer [-1, -1, 104, 26, 41, ]
+The buffer has 3 data now
+[producer #0] produces 84	Buffer [84, -1, 104, 26, 41, ]
+The buffer has 4 data now
+[consumer #4] consumes 104	Buffer [84, -1, -1, 26, 41, ]
+The buffer has 3 data now
+[consumer #3] consumes 26	Buffer [84, -1, -1, -1, 41, ]
+The buffer has 2 data now
+[consumer #2] consumes 41	Buffer [84, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 225	Buffer [84, 225, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 84	Buffer [-1, 225, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 1	Buffer [-1, 225, 1, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 52	Buffer [-1, 225, 1, 52, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 225	Buffer [-1, -1, 1, 52, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 1	Buffer [-1, -1, -1, 52, -1, ]
+The buffer has 1 data now
+[producer #3] produces 103	Buffer [-1, -1, -1, 52, 103, ]
+The buffer has 2 data now
+[consumer #1] consumes 52	Buffer [-1, -1, -1, -1, 103, ]
+The buffer has 1 data now
+[consumer #3] consumes 103	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 114	Buffer [114, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 114	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 23	Buffer [-1, 23, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 112	Buffer [-1, 23, 112, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 23	Buffer [-1, -1, 112, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 0	Buffer [-1, -1, 112, 0, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 112	Buffer [-1, -1, -1, 0, -1, ]
+The buffer has 1 data now
+[producer #1] produces 237	Buffer [-1, -1, -1, 0, 237, ]
+The buffer has 2 data now
+[producer #2] produces 196	Buffer [196, -1, -1, 0, 237, ]
+The buffer has 3 data now
+[consumer #0] consumes 0	Buffer [196, -1, -1, -1, 237, ]
+The buffer has 2 data now
+[consumer #1] consumes 237	Buffer [196, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 196	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 221	Buffer [-1, 221, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 66	Buffer [-1, 221, 66, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 221	Buffer [-1, -1, 66, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 66	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 165	Buffer [-1, -1, -1, 165, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 165	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 158	Buffer [-1, -1, -1, -1, 158, ]
+The buffer has 1 data now
+[consumer #1] consumes 158	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 195	Buffer [195, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 248	Buffer [195, 248, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 195	Buffer [-1, 248, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 241	Buffer [-1, 248, 241, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 248	Buffer [-1, -1, 241, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 241	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 151	Buffer [-1, -1, -1, 151, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 151	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 68	Buffer [-1, -1, -1, -1, 68, ]
+The buffer has 1 data now
+[consumer #2] consumes 68	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 90	Buffer [90, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 216	Buffer [90, 216, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 90	Buffer [-1, 216, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 216	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 189	Buffer [-1, -1, 189, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 189	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 115	Buffer [-1, -1, -1, 115, -1, ]
+The buffer has 1 data now
+[producer #4] produces 231	Buffer [-1, -1, -1, 115, 231, ]
+The buffer has 2 data now
+[consumer #3] consumes 115	Buffer [-1, -1, -1, -1, 231, ]
+The buffer has 1 data now
+[consumer #0] consumes 231	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 42	Buffer [42, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 2	Buffer [42, 2, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 42	Buffer [-1, 2, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 93	Buffer [-1, 2, 93, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 147	Buffer [-1, 2, 93, 147, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 2	Buffer [-1, -1, 93, 147, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 93	Buffer [-1, -1, -1, 147, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 147	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 155	Buffer [-1, -1, -1, -1, 155, ]
+The buffer has 1 data now
+[consumer #0] consumes 155	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 6	Buffer [6, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 6	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 103	Buffer [-1, 103, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 103	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 125	Buffer [-1, -1, 125, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 125	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 7	Buffer [-1, -1, -1, 7, -1, ]
+The buffer has 1 data now
+[producer #4] produces 155	Buffer [-1, -1, -1, 7, 155, ]
+The buffer has 2 data now
+[consumer #2] consumes 7	Buffer [-1, -1, -1, -1, 155, ]
+The buffer has 1 data now
+[consumer #0] consumes 155	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 101	Buffer [101, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 248	Buffer [101, 248, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 178	Buffer [101, 248, 178, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 101	Buffer [-1, 248, 178, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 248	Buffer [-1, -1, 178, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 178	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 213	Buffer [-1, -1, -1, 213, -1, ]
+The buffer has 1 data now
+[producer #2] produces 248	Buffer [-1, -1, -1, 213, 248, ]
+The buffer has 2 data now
+[consumer #2] consumes 213	Buffer [-1, -1, -1, -1, 248, ]
+The buffer has 1 data now
+[producer #1] produces 33	Buffer [33, -1, -1, -1, 248, ]
+The buffer has 2 data now
+[consumer #3] consumes 248	Buffer [33, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 26	Buffer [33, 26, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 33	Buffer [-1, 26, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 26	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 86	Buffer [-1, -1, 86, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 86	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 99	Buffer [-1, -1, -1, 99, -1, ]
+The buffer has 1 data now
+[producer #2] produces 63	Buffer [-1, -1, -1, 99, 63, ]
+The buffer has 2 data now
+[consumer #1] consumes 99	Buffer [-1, -1, -1, -1, 63, ]
+The buffer has 1 data now
+[consumer #3] consumes 63	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 116	Buffer [116, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 116	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 166	Buffer [-1, 166, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 166	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 56	Buffer [-1, -1, 56, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 102	Buffer [-1, -1, 56, 102, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 56	Buffer [-1, -1, -1, 102, -1, ]
+The buffer has 1 data now
+[producer #2] produces 63	Buffer [-1, -1, -1, 102, 63, ]
+The buffer has 2 data now
+[consumer #2] consumes 102	Buffer [-1, -1, -1, -1, 63, ]
+The buffer has 1 data now
+[consumer #3] consumes 63	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 124	Buffer [124, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 193	Buffer [124, 193, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 24	Buffer [124, 193, 24, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 124	Buffer [-1, 193, 24, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 193	Buffer [-1, -1, 24, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 24	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 185	Buffer [-1, -1, -1, 185, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 185	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 53	Buffer [-1, -1, -1, -1, 53, ]
+The buffer has 1 data now
+[producer #2] produces 127	Buffer [127, -1, -1, -1, 53, ]
+The buffer has 2 data now
+[consumer #4] consumes 53	Buffer [127, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 127	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 228	Buffer [-1, 228, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 228	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 182	Buffer [-1, -1, 182, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 182	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 92	Buffer [-1, -1, -1, 92, -1, ]
+The buffer has 1 data now
+[producer #3] produces 120	Buffer [-1, -1, -1, 92, 120, ]
+The buffer has 2 data now
+[producer #0] produces 209	Buffer [209, -1, -1, 92, 120, ]
+The buffer has 3 data now
+[consumer #1] consumes 92	Buffer [209, -1, -1, -1, 120, ]
+The buffer has 2 data now
+[consumer #0] consumes 120	Buffer [209, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 98	Buffer [209, 98, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 209	Buffer [-1, 98, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 98	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 95	Buffer [-1, -1, 95, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 79	Buffer [-1, -1, 95, 79, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 95	Buffer [-1, -1, -1, 79, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 79	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 232	Buffer [-1, -1, -1, -1, 232, ]
+The buffer has 1 data now
+[producer #2] produces 250	Buffer [250, -1, -1, -1, 232, ]
+The buffer has 2 data now
+[consumer #2] consumes 232	Buffer [250, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 180	Buffer [250, 180, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 225	Buffer [250, 180, 225, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 250	Buffer [-1, 180, 225, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 180	Buffer [-1, -1, 225, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 46	Buffer [-1, -1, 225, 46, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 225	Buffer [-1, -1, -1, 46, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 46	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 10	Buffer [-1, -1, -1, -1, 10, ]
+The buffer has 1 data now
+[consumer #2] consumes 10	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 218	Buffer [218, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 218	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #3] produces 79	Buffer [-1, 79, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 79	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 164	Buffer [-1, -1, 164, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 164	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 176	Buffer [-1, -1, -1, 176, -1, ]
+The buffer has 1 data now
+[producer #2] produces 50	Buffer [-1, -1, -1, 176, 50, ]
+The buffer has 2 data now
+[consumer #3] consumes 176	Buffer [-1, -1, -1, -1, 50, ]
+The buffer has 1 data now
+[consumer #0] consumes 50	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 227	Buffer [227, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #3] produces 37	Buffer [227, 37, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 227	Buffer [-1, 37, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 37	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 217	Buffer [-1, -1, 217, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 217	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 156	Buffer [-1, -1, -1, 156, -1, ]
+The buffer has 1 data now
+[producer #2] produces 139	Buffer [-1, -1, -1, 156, 139, ]
+The buffer has 2 data now
+[consumer #2] consumes 156	Buffer [-1, -1, -1, -1, 139, ]
+The buffer has 1 data now
+[producer #3] produces 152	Buffer [152, -1, -1, -1, 139, ]
+The buffer has 2 data now
+[producer #1] produces 25	Buffer [152, 25, -1, -1, 139, ]
+The buffer has 3 data now
+[consumer #2] consumes 139	Buffer [152, 25, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 204	Buffer [152, 25, 204, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 48	Buffer [152, 25, 204, 48, -1, ]
+The buffer has 4 data now
+[producer #0] produces 83	Buffer [152, 25, 204, 48, 83, ]
+The buffer has 5 data now
+[consumer #0] consumes 152	Buffer [-1, 25, 204, 48, 83, ]
+The buffer has 4 data now
+[consumer #1] consumes 25	Buffer [-1, -1, 204, 48, 83, ]
+The buffer has 3 data now
+[consumer #4] consumes 204	Buffer [-1, -1, -1, 48, 83, ]
+The buffer has 2 data now
+[consumer #3] consumes 48	Buffer [-1, -1, -1, -1, 83, ]
+The buffer has 1 data now
+[producer #3] produces 129	Buffer [129, -1, -1, -1, 83, ]
+The buffer has 2 data now
+[producer #0] produces 175	Buffer [129, 175, -1, -1, 83, ]
+The buffer has 3 data now
+[producer #4] produces 56	Buffer [129, 175, 56, -1, 83, ]
+The buffer has 4 data now
+[consumer #0] consumes 83	Buffer [129, 175, 56, -1, -1, ]
+The buffer has 3 data now
+[consumer #1] consumes 129	Buffer [-1, 175, 56, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 183	Buffer [-1, 175, 56, 183, -1, ]
+The buffer has 3 data now
+[producer #2] produces 12	Buffer [-1, 175, 56, 183, 12, ]
+The buffer has 4 data now
+[consumer #4] consumes 175	Buffer [-1, -1, 56, 183, 12, ]
+The buffer has 3 data now
+[consumer #2] consumes 56	Buffer [-1, -1, -1, 183, 12, ]
+The buffer has 2 data now
+[producer #0] produces 48	Buffer [48, -1, -1, 183, 12, ]
+The buffer has 3 data now
+[consumer #3] consumes 183	Buffer [48, -1, -1, -1, 12, ]
+The buffer has 2 data now
+[producer #0] produces 137	Buffer [48, 137, -1, -1, 12, ]
+The buffer has 3 data now
+[producer #3] produces 110	Buffer [48, 137, 110, -1, 12, ]
+The buffer has 4 data now
+[producer #2] produces 143	Buffer [48, 137, 110, 143, 12, ]
+The buffer has 5 data now
+[consumer #3] consumes 12	Buffer [48, 137, 110, 143, -1, ]
+The buffer has 4 data now
+[producer #4] produces 217	Buffer [48, 137, 110, 143, 217, ]
+The buffer has 5 data now
+[consumer #4] consumes 48	Buffer [-1, 137, 110, 143, 217, ]
+The buffer has 4 data now
+[consumer #1] consumes 137	Buffer [-1, -1, 110, 143, 217, ]
+The buffer has 3 data now
+[producer #2] produces 87	Buffer [87, -1, 110, 143, 217, ]
+The buffer has 4 data now
+[producer #1] produces 138	Buffer [87, 138, 110, 143, 217, ]
+The buffer has 5 data now
+[consumer #0] consumes 110	Buffer [87, 138, -1, 143, 217, ]
+The buffer has 4 data now
+[producer #0] produces 14	Buffer [87, 138, 14, 143, 217, ]
+The buffer has 5 data now
+[consumer #2] consumes 143	Buffer [87, 138, 14, -1, 217, ]
+The buffer has 4 data now
+[consumer #3] consumes 217	Buffer [87, 138, 14, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 184	Buffer [87, 138, 14, 184, -1, ]
+The buffer has 4 data now
+[producer #3] produces 184	Buffer [87, 138, 14, 184, 184, ]
+The buffer has 5 data now
+[consumer #1] consumes 87	Buffer [-1, 138, 14, 184, 184, ]
+The buffer has 4 data now
+[producer #2] produces 152	Buffer [152, 138, 14, 184, 184, ]
+The buffer has 5 data now
+[consumer #2] consumes 138	Buffer [152, -1, 14, 184, 184, ]
+The buffer has 4 data now
+[consumer #4] consumes 14	Buffer [152, -1, -1, 184, 184, ]
+The buffer has 3 data now
+[consumer #0] consumes 184	Buffer [152, -1, -1, -1, 184, ]
+The buffer has 2 data now
+[consumer #3] consumes 184	Buffer [152, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 147	Buffer [152, 147, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 135	Buffer [152, 147, 135, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 61	Buffer [152, 147, 135, 61, -1, ]
+The buffer has 4 data now
+[producer #2] produces 68	Buffer [152, 147, 135, 61, 68, ]
+The buffer has 5 data now
+[consumer #1] consumes 152	Buffer [-1, 147, 135, 61, 68, ]
+The buffer has 4 data now
+[consumer #0] consumes 147	Buffer [-1, -1, 135, 61, 68, ]
+The buffer has 3 data now
+[producer #3] produces 186	Buffer [186, -1, 135, 61, 68, ]
+The buffer has 4 data now
+[producer #0] produces 160	Buffer [186, 160, 135, 61, 68, ]
+The buffer has 5 data now
+[consumer #4] consumes 135	Buffer [186, 160, -1, 61, 68, ]
+The buffer has 4 data now
+[consumer #2] consumes 61	Buffer [186, 160, -1, -1, 68, ]
+The buffer has 3 data now
+[producer #1] produces 232	Buffer [186, 160, 232, -1, 68, ]
+The buffer has 4 data now
+[producer #4] produces 20	Buffer [186, 160, 232, 20, 68, ]
+The buffer has 5 data now
+[consumer #3] consumes 68	Buffer [186, 160, 232, 20, -1, ]
+The buffer has 4 data now
+[producer #3] produces 61	Buffer [186, 160, 232, 20, 61, ]
+The buffer has 5 data now
+[consumer #1] consumes 186	Buffer [-1, 160, 232, 20, 61, ]
+The buffer has 4 data now
+[producer #2] produces 243	Buffer [243, 160, 232, 20, 61, ]
+The buffer has 5 data now
+[consumer #0] consumes 160	Buffer [243, -1, 232, 20, 61, ]
+The buffer has 4 data now
+[producer #0] produces 172	Buffer [243, 172, 232, 20, 61, ]
+The buffer has 5 data now
+[consumer #2] consumes 232	Buffer [243, 172, -1, 20, 61, ]
+The buffer has 4 data now
+[consumer #4] consumes 20	Buffer [243, 172, -1, -1, 61, ]
+The buffer has 3 data now
+[producer #0] produces 214	Buffer [243, 172, 214, -1, 61, ]
+The buffer has 4 data now
+[producer #4] produces 193	Buffer [243, 172, 214, 193, 61, ]
+The buffer has 5 data now
+[consumer #3] consumes 61	Buffer [243, 172, 214, 193, -1, ]
+The buffer has 4 data now
+[producer #3] produces 220	Buffer [243, 172, 214, 193, 220, ]
+The buffer has 5 data now
+[consumer #1] consumes 243	Buffer [-1, 172, 214, 193, 220, ]
+The buffer has 4 data now
+[consumer #4] consumes 172	Buffer [-1, -1, 214, 193, 220, ]
+The buffer has 3 data now
+[producer #1] produces 42	Buffer [42, -1, 214, 193, 220, ]
+The buffer has 4 data now
+[producer #2] produces 194	Buffer [42, 194, 214, 193, 220, ]
+The buffer has 5 data now
+[consumer #0] consumes 214	Buffer [42, 194, -1, 193, 220, ]
+The buffer has 4 data now
+[producer #4] produces 140	Buffer [42, 194, 140, 193, 220, ]
+The buffer has 5 data now
+[consumer #2] consumes 193	Buffer [42, 194, 140, -1, 220, ]
+The buffer has 4 data now
+[consumer #3] consumes 220	Buffer [42, 194, 140, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 98	Buffer [42, 194, 140, 98, -1, ]
+The buffer has 4 data now
+[producer #3] produces 123	Buffer [42, 194, 140, 98, 123, ]
+The buffer has 5 data now
+[consumer #1] consumes 42	Buffer [-1, 194, 140, 98, 123, ]
+The buffer has 4 data now
+[producer #3] produces 152	Buffer [152, 194, 140, 98, 123, ]
+The buffer has 5 data now
+[consumer #0] consumes 194	Buffer [152, -1, 140, 98, 123, ]
+The buffer has 4 data now
+[consumer #3] consumes 140	Buffer [152, -1, -1, 98, 123, ]
+The buffer has 3 data now
+[consumer #2] consumes 98	Buffer [152, -1, -1, -1, 123, ]
+The buffer has 2 data now
+[producer #1] produces 18	Buffer [152, 18, -1, -1, 123, ]
+The buffer has 3 data now
+[producer #4] produces 132	Buffer [152, 18, 132, -1, 123, ]
+The buffer has 4 data now
+[producer #2] produces 134	Buffer [152, 18, 132, 134, 123, ]
+The buffer has 5 data now
+[consumer #4] consumes 123	Buffer [152, 18, 132, 134, -1, ]
+The buffer has 4 data now
+[producer #3] produces 161	Buffer [152, 18, 132, 134, 161, ]
+The buffer has 5 data now
+[consumer #2] consumes 152	Buffer [-1, 18, 132, 134, 161, ]
+The buffer has 4 data now
+[consumer #1] consumes 18	Buffer [-1, -1, 132, 134, 161, ]
+The buffer has 3 data now
+[producer #0] produces 221	Buffer [221, -1, 132, 134, 161, ]
+The buffer has 4 data now
+[producer #3] produces 93	Buffer [221, 93, 132, 134, 161, ]
+The buffer has 5 data now
+[consumer #3] consumes 132	Buffer [221, 93, -1, 134, 161, ]
+The buffer has 4 data now
+[producer #0] produces 171	Buffer [221, 93, 171, 134, 161, ]
+The buffer has 5 data now
+[consumer #2] consumes 134	Buffer [221, 93, 171, -1, 161, ]
+The buffer has 4 data now
+[consumer #0] consumes 161	Buffer [221, 93, 171, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 108	Buffer [221, 93, 171, 108, -1, ]
+The buffer has 4 data now
+[producer #4] produces 22	Buffer [221, 93, 171, 108, 22, ]
+The buffer has 5 data now
+[consumer #4] consumes 221	Buffer [-1, 93, 171, 108, 22, ]
+The buffer has 4 data now
+[producer #0] produces 228	Buffer [228, 93, 171, 108, 22, ]
+The buffer has 5 data now
+[consumer #1] consumes 93	Buffer [228, -1, 171, 108, 22, ]
+The buffer has 4 data now
+[producer #1] produces 5	Buffer [228, 5, 171, 108, 22, ]
+The buffer has 5 data now
+[consumer #2] consumes 171	Buffer [228, 5, -1, 108, 22, ]
+The buffer has 4 data now
+[consumer #3] consumes 108	Buffer [228, 5, -1, -1, 22, ]
+The buffer has 3 data now
+[producer #2] produces 41	Buffer [228, 5, 41, -1, 22, ]
+The buffer has 4 data now
+[producer #4] produces 108	Buffer [228, 5, 41, 108, 22, ]
+The buffer has 5 data now
+[consumer #4] consumes 22	Buffer [228, 5, 41, 108, -1, ]
+The buffer has 4 data now
+[producer #2] produces 193	Buffer [228, 5, 41, 108, 193, ]
+The buffer has 5 data now
+[consumer #0] consumes 228	Buffer [-1, 5, 41, 108, 193, ]
+The buffer has 4 data now
+[producer #1] produces 236	Buffer [236, 5, 41, 108, 193, ]
+The buffer has 5 data now
+[consumer #2] consumes 5	Buffer [236, -1, 41, 108, 193, ]
+The buffer has 4 data now
+[consumer #1] consumes 41	Buffer [236, -1, -1, 108, 193, ]
+The buffer has 3 data now
+[producer #2] produces 166	Buffer [236, 166, -1, 108, 193, ]
+The buffer has 4 data now
+[producer #0] produces 225	Buffer [236, 166, 225, 108, 193, ]
+The buffer has 5 data now
+[consumer #3] consumes 108	Buffer [236, 166, 225, -1, 193, ]
+The buffer has 4 data now
+[consumer #4] consumes 193	Buffer [236, 166, 225, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 213	Buffer [236, 166, 225, 213, -1, ]
+The buffer has 4 data now
+[producer #3] produces 186	Buffer [236, 166, 225, 213, 186, ]
+The buffer has 5 data now
+[consumer #0] consumes 236	Buffer [-1, 166, 225, 213, 186, ]
+The buffer has 4 data now
+[consumer #2] consumes 166	Buffer [-1, -1, 225, 213, 186, ]
+The buffer has 3 data now
+[producer #3] produces 32	Buffer [32, -1, 225, 213, 186, ]
+The buffer has 4 data now
+[producer #0] produces 201	Buffer [32, 201, 225, 213, 186, ]
+The buffer has 5 data now
+[consumer #1] consumes 225	Buffer [32, 201, -1, 213, 186, ]
+The buffer has 4 data now
+[consumer #4] consumes 213	Buffer [32, 201, -1, -1, 186, ]
+The buffer has 3 data now
+[producer #4] produces 230	Buffer [32, 201, 230, -1, 186, ]
+The buffer has 4 data now
+[producer #2] produces 118	Buffer [32, 201, 230, 118, 186, ]
+The buffer has 5 data now
+[consumer #3] consumes 186	Buffer [32, 201, 230, 118, -1, ]
+The buffer has 4 data now
+[producer #1] produces 11	Buffer [32, 201, 230, 118, 11, ]
+The buffer has 5 data now
+[consumer #2] consumes 32	Buffer [-1, 201, 230, 118, 11, ]
+The buffer has 4 data now
+[producer #3] produces 195	Buffer [195, 201, 230, 118, 11, ]
+The buffer has 5 data now
+[consumer #0] consumes 201	Buffer [195, -1, 230, 118, 11, ]
+The buffer has 4 data now
+[producer #0] produces 160	Buffer [195, 160, 230, 118, 11, ]
+The buffer has 5 data now
+[consumer #3] consumes 230	Buffer [195, 160, -1, 118, 11, ]
+The buffer has 4 data now
+[consumer #1] consumes 118	Buffer [195, 160, -1, -1, 11, ]
+The buffer has 3 data now
+[consumer #4] consumes 11	Buffer [195, 160, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 195	Buffer [-1, 160, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 206	Buffer [-1, 160, 206, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 207	Buffer [-1, 160, 206, 207, -1, ]
+The buffer has 3 data now
+[producer #0] produces 130	Buffer [-1, 160, 206, 207, 130, ]
+The buffer has 4 data now
+[producer #2] produces 201	Buffer [201, 160, 206, 207, 130, ]
+The buffer has 5 data now
+[consumer #4] consumes 160	Buffer [201, -1, 206, 207, 130, ]
+The buffer has 4 data now
+[producer #3] produces 231	Buffer [201, 231, 206, 207, 130, ]
+The buffer has 5 data now
+[consumer #3] consumes 206	Buffer [201, 231, -1, 207, 130, ]
+The buffer has 4 data now
+[consumer #1] consumes 207	Buffer [201, 231, -1, -1, 130, ]
+The buffer has 3 data now
+[consumer #2] consumes 130	Buffer [201, 231, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 20	Buffer [201, 231, 20, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 201	Buffer [-1, 231, 20, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 78	Buffer [-1, 231, 20, 78, -1, ]
+The buffer has 3 data now
+[producer #0] produces 110	Buffer [-1, 231, 20, 78, 110, ]
+The buffer has 4 data now
+[producer #4] produces 181	Buffer [181, 231, 20, 78, 110, ]
+The buffer has 5 data now
+[consumer #3] consumes 231	Buffer [181, -1, 20, 78, 110, ]
+The buffer has 4 data now
+[consumer #4] consumes 20	Buffer [181, -1, -1, 78, 110, ]
+The buffer has 3 data now
+[producer #3] produces 172	Buffer [181, 172, -1, 78, 110, ]
+The buffer has 4 data now
+[producer #1] produces 203	Buffer [181, 172, 203, 78, 110, ]
+The buffer has 5 data now
+[consumer #1] consumes 78	Buffer [181, 172, 203, -1, 110, ]
+The buffer has 4 data now
+[consumer #0] consumes 110	Buffer [181, 172, 203, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 181	Buffer [-1, 172, 203, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 224	Buffer [-1, 172, 203, 224, -1, ]
+The buffer has 3 data now
+[consumer #3] consumes 172	Buffer [-1, -1, 203, 224, -1, ]
+The buffer has 2 data now
+[producer #2] produces 25	Buffer [-1, -1, 203, 224, 25, ]
+The buffer has 3 data now
+[producer #0] produces 97	Buffer [97, -1, 203, 224, 25, ]
+The buffer has 4 data now
+[producer #0] produces 197	Buffer [97, 197, 203, 224, 25, ]
+The buffer has 5 data now
+[consumer #0] consumes 203	Buffer [97, 197, -1, 224, 25, ]
+The buffer has 4 data now
+[producer #3] produces 30	Buffer [97, 197, 30, 224, 25, ]
+The buffer has 5 data now
+[consumer #3] consumes 224	Buffer [97, 197, 30, -1, 25, ]
+The buffer has 4 data now
+[consumer #4] consumes 25	Buffer [97, 197, 30, -1, -1, ]
+The buffer has 3 data now
+[producer #4] produces 138	Buffer [97, 197, 30, 138, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 97	Buffer [-1, 197, 30, 138, -1, ]
+The buffer has 3 data now
+[producer #2] produces 178	Buffer [-1, 197, 30, 138, 178, ]
+The buffer has 4 data now
+[producer #0] produces 95	Buffer [95, 197, 30, 138, 178, ]
+The buffer has 5 data now
+[consumer #2] consumes 197	Buffer [95, -1, 30, 138, 178, ]
+The buffer has 4 data now
+[producer #1] produces 119	Buffer [95, 119, 30, 138, 178, ]
+The buffer has 5 data now
+[consumer #3] consumes 30	Buffer [95, 119, -1, 138, 178, ]
+The buffer has 4 data now
+[producer #1] produces 216	Buffer [95, 119, 216, 138, 178, ]
+The buffer has 5 data now
+[consumer #1] consumes 138	Buffer [95, 119, 216, -1, 178, ]
+The buffer has 4 data now
+[consumer #3] consumes 178	Buffer [95, 119, 216, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 65	Buffer [95, 119, 216, 65, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 95	Buffer [-1, 119, 216, 65, -1, ]
+The buffer has 3 data now
+[producer #4] produces 77	Buffer [-1, 119, 216, 65, 77, ]
+The buffer has 4 data now
+[producer #3] produces 20	Buffer [20, 119, 216, 65, 77, ]
+The buffer has 5 data now
+[consumer #1] consumes 119	Buffer [20, -1, 216, 65, 77, ]
+The buffer has 4 data now
+[consumer #4] consumes 216	Buffer [20, -1, -1, 65, 77, ]
+The buffer has 3 data now
+[producer #4] produces 224	Buffer [20, 224, -1, 65, 77, ]
+The buffer has 4 data now
+[consumer #3] consumes 65	Buffer [20, 224, -1, -1, 77, ]
+The buffer has 3 data now
+[producer #2] produces 24	Buffer [20, 224, 24, -1, 77, ]
+The buffer has 4 data now
+[consumer #2] consumes 77	Buffer [20, 224, 24, -1, -1, ]
+The buffer has 3 data now
+[producer #0] produces 250	Buffer [20, 224, 24, 250, -1, ]
+The buffer has 4 data now
+[producer #3] produces 214	Buffer [20, 224, 24, 250, 214, ]
+The buffer has 5 data now
+[consumer #1] consumes 20	Buffer [-1, 224, 24, 250, 214, ]
+The buffer has 4 data now
+[producer #1] produces 162	Buffer [162, 224, 24, 250, 214, ]
+The buffer has 5 data now
+[consumer #0] consumes 224	Buffer [162, -1, 24, 250, 214, ]
+The buffer has 4 data now
+[producer #3] produces 63	Buffer [162, 63, 24, 250, 214, ]
+The buffer has 5 data now
+[consumer #2] consumes 24	Buffer [162, 63, -1, 250, 214, ]
+The buffer has 4 data now
+[producer #2] produces 119	Buffer [162, 63, 119, 250, 214, ]
+The buffer has 5 data now
+[consumer #3] consumes 250	Buffer [162, 63, 119, -1, 214, ]
+The buffer has 4 data now
+[producer #4] produces 240	Buffer [162, 63, 119, 240, 214, ]
+The buffer has 5 data now
+[consumer #4] consumes 214	Buffer [162, 63, 119, 240, -1, ]
+The buffer has 4 data now
+[producer #0] produces 15	Buffer [162, 63, 119, 240, 15, ]
+The buffer has 5 data now
+[consumer #1] consumes 162	Buffer [-1, 63, 119, 240, 15, ]
+The buffer has 4 data now
+[producer #1] produces 121	Buffer [121, 63, 119, 240, 15, ]
+The buffer has 5 data now
+[consumer #3] consumes 63	Buffer [121, -1, 119, 240, 15, ]
+The buffer has 4 data now
+[producer #4] produces 186	Buffer [121, 186, 119, 240, 15, ]
+The buffer has 5 data now
+[consumer #0] consumes 119	Buffer [121, 186, -1, 240, 15, ]
+The buffer has 4 data now
+[consumer #2] consumes 240	Buffer [121, 186, -1, -1, 15, ]
+The buffer has 3 data now
+[producer #1] produces 247	Buffer [121, 186, 247, -1, 15, ]
+The buffer has 4 data now
+[producer #2] produces 141	Buffer [121, 186, 247, 141, 15, ]
+The buffer has 5 data now
+[consumer #4] consumes 15	Buffer [121, 186, 247, 141, -1, ]
+The buffer has 4 data now
+[producer #3] produces 137	Buffer [121, 186, 247, 141, 137, ]
+The buffer has 5 data now
+[consumer #2] consumes 121	Buffer [-1, 186, 247, 141, 137, ]
+The buffer has 4 data now
+[producer #3] produces 229	Buffer [229, 186, 247, 141, 137, ]
+The buffer has 5 data now
+[consumer #1] consumes 186	Buffer [229, -1, 247, 141, 137, ]
+The buffer has 4 data now
+[producer #4] produces 194	Buffer [229, 194, 247, 141, 137, ]
+The buffer has 5 data now
+[consumer #3] consumes 247	Buffer [229, 194, -1, 141, 137, ]
+The buffer has 4 data now
+[producer #0] produces 54	Buffer [229, 194, 54, 141, 137, ]
+The buffer has 5 data now
+[consumer #0] consumes 141	Buffer [229, 194, 54, -1, 137, ]
+The buffer has 4 data now
+[producer #2] produces 50	Buffer [229, 194, 54, 50, 137, ]
+The buffer has 5 data now
+[consumer #2] consumes 137	Buffer [229, 194, 54, 50, -1, ]
+The buffer has 4 data now
+[producer #4] produces 164	Buffer [229, 194, 54, 50, 164, ]
+The buffer has 5 data now
+[consumer #4] consumes 229	Buffer [-1, 194, 54, 50, 164, ]
+The buffer has 4 data now
+[producer #1] produces 79	Buffer [79, 194, 54, 50, 164, ]
+The buffer has 5 data now
+[consumer #1] consumes 194	Buffer [79, -1, 54, 50, 164, ]
+The buffer has 4 data now
+[producer #4] produces 147	Buffer [79, 147, 54, 50, 164, ]
+The buffer has 5 data now
+[consumer #3] consumes 54	Buffer [79, 147, -1, 50, 164, ]
+The buffer has 4 data now
+[producer #2] produces 233	Buffer [79, 147, 233, 50, 164, ]
+The buffer has 5 data now
+[consumer #1] consumes 50	Buffer [79, 147, 233, -1, 164, ]
+The buffer has 4 data now
+[consumer #2] consumes 164	Buffer [79, 147, 233, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 79	Buffer [-1, 147, 233, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 236	Buffer [-1, 147, 233, 236, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 147	Buffer [-1, -1, 233, 236, -1, ]
+The buffer has 2 data now
+[producer #0] produces 31	Buffer [-1, -1, 233, 236, 31, ]
+The buffer has 3 data now
+[producer #1] produces 28	Buffer [28, -1, 233, 236, 31, ]
+The buffer has 4 data now
+[producer #4] produces 203	Buffer [28, 203, 233, 236, 31, ]
+The buffer has 5 data now
+[consumer #3] consumes 233	Buffer [28, 203, -1, 236, 31, ]
+The buffer has 4 data now
+[consumer #1] consumes 236	Buffer [28, 203, -1, -1, 31, ]
+The buffer has 3 data now
+[producer #3] produces 150	Buffer [28, 203, 150, -1, 31, ]
+The buffer has 4 data now
+[producer #0] produces 245	Buffer [28, 203, 150, 245, 31, ]
+The buffer has 5 data now
+[consumer #4] consumes 31	Buffer [28, 203, 150, 245, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 28	Buffer [-1, 203, 150, 245, -1, ]
+The buffer has 3 data now
+[producer #2] produces 140	Buffer [-1, 203, 150, 245, 140, ]
+The buffer has 4 data now
+[consumer #0] consumes 203	Buffer [-1, -1, 150, 245, 140, ]
+The buffer has 3 data now
+[producer #4] produces 100	Buffer [100, -1, 150, 245, 140, ]
+The buffer has 4 data now
+[producer #0] produces 10	Buffer [100, 10, 150, 245, 140, ]
+The buffer has 5 data now
+[consumer #3] consumes 150	Buffer [100, 10, -1, 245, 140, ]
+The buffer has 4 data now
+[producer #3] produces 237	Buffer [100, 10, 237, 245, 140, ]
+The buffer has 5 data now
+[consumer #1] consumes 245	Buffer [100, 10, 237, -1, 140, ]
+The buffer has 4 data now
+[producer #1] produces 251	Buffer [100, 10, 237, 251, 140, ]
+The buffer has 5 data now
+[consumer #2] consumes 140	Buffer [100, 10, 237, 251, -1, ]
+The buffer has 4 data now
+[consumer #3] consumes 100	Buffer [-1, 10, 237, 251, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 10	Buffer [-1, -1, 237, 251, -1, ]
+The buffer has 2 data now
+[producer #4] produces 132	Buffer [-1, -1, 237, 251, 132, ]
+The buffer has 3 data now
+[consumer #0] consumes 237	Buffer [-1, -1, -1, 251, 132, ]
+The buffer has 2 data now
+[producer #0] produces 196	Buffer [196, -1, -1, 251, 132, ]
+The buffer has 3 data now
+[consumer #3] consumes 251	Buffer [196, -1, -1, -1, 132, ]
+The buffer has 2 data now
+[producer #1] produces 158	Buffer [196, 158, -1, -1, 132, ]
+The buffer has 3 data now
+[producer #2] produces 195	Buffer [196, 158, 195, -1, 132, ]
+The buffer has 4 data now
+[consumer #1] consumes 132	Buffer [196, 158, 195, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 188	Buffer [196, 158, 195, 188, -1, ]
+The buffer has 4 data now
+[producer #4] produces 144	Buffer [196, 158, 195, 188, 144, ]
+The buffer has 5 data now
+[consumer #2] consumes 196	Buffer [-1, 158, 195, 188, 144, ]
+The buffer has 4 data now
+[producer #0] produces 83	Buffer [83, 158, 195, 188, 144, ]
+The buffer has 5 data now
+[consumer #1] consumes 158	Buffer [83, -1, 195, 188, 144, ]
+The buffer has 4 data now
+[producer #4] produces 181	Buffer [83, 181, 195, 188, 144, ]
+The buffer has 5 data now
+[consumer #3] consumes 195	Buffer [83, 181, -1, 188, 144, ]
+The buffer has 4 data now
+[consumer #0] consumes 188	Buffer [83, 181, -1, -1, 144, ]
+The buffer has 3 data now
+[producer #0] produces 202	Buffer [83, 181, 202, -1, 144, ]
+The buffer has 4 data now
+[producer #3] produces 202	Buffer [83, 181, 202, 202, 144, ]
+The buffer has 5 data now
+[consumer #4] consumes 144	Buffer [83, 181, 202, 202, -1, ]
+The buffer has 4 data now
+[producer #1] produces 68	Buffer [83, 181, 202, 202, 68, ]
+The buffer has 5 data now
+[consumer #1] consumes 83	Buffer [-1, 181, 202, 202, 68, ]
+The buffer has 4 data now
+[consumer #2] consumes 181	Buffer [-1, -1, 202, 202, 68, ]
+The buffer has 3 data now
+[producer #2] produces 211	Buffer [211, -1, 202, 202, 68, ]
+The buffer has 4 data now
+[consumer #0] consumes 202	Buffer [211, -1, -1, 202, 68, ]
+The buffer has 3 data now
+[producer #3] produces 48	Buffer [211, 48, -1, 202, 68, ]
+The buffer has 4 data now
+[consumer #3] consumes 202	Buffer [211, 48, -1, -1, 68, ]
+The buffer has 3 data now
+[producer #4] produces 134	Buffer [211, 48, 134, -1, 68, ]
+The buffer has 4 data now
+[consumer #1] consumes 68	Buffer [211, 48, 134, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 137	Buffer [211, 48, 134, 137, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 211	Buffer [-1, 48, 134, 137, -1, ]
+The buffer has 3 data now
+[producer #1] produces 98	Buffer [-1, 48, 134, 137, 98, ]
+The buffer has 4 data now
+[consumer #4] consumes 48	Buffer [-1, -1, 134, 137, 98, ]
+The buffer has 3 data now
+[producer #3] produces 170	Buffer [170, -1, 134, 137, 98, ]
+The buffer has 4 data now
+[producer #0] produces 88	Buffer [170, 88, 134, 137, 98, ]
+The buffer has 5 data now
+[consumer #3] consumes 134	Buffer [170, 88, -1, 137, 98, ]
+The buffer has 4 data now
+[consumer #4] consumes 137	Buffer [170, 88, -1, -1, 98, ]
+The buffer has 3 data now
+[consumer #2] consumes 98	Buffer [170, 88, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #3] produces 118	Buffer [170, 88, 118, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 170	Buffer [-1, 88, 118, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 88	Buffer [-1, -1, 118, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 21	Buffer [-1, -1, 118, 21, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 118	Buffer [-1, -1, -1, 21, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 21	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 69	Buffer [-1, -1, -1, -1, 69, ]
+The buffer has 1 data now
+[producer #3] produces 21	Buffer [21, -1, -1, -1, 69, ]
+The buffer has 2 data now
+[producer #0] produces 49	Buffer [21, 49, -1, -1, 69, ]
+The buffer has 3 data now
+[producer #2] produces 144	Buffer [21, 49, 144, -1, 69, ]
+The buffer has 4 data now
+[consumer #0] consumes 69	Buffer [21, 49, 144, -1, -1, ]
+The buffer has 3 data now
+[producer #3] produces 171	Buffer [21, 49, 144, 171, -1, ]
+The buffer has 4 data now
+[consumer #4] consumes 21	Buffer [-1, 49, 144, 171, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 49	Buffer [-1, -1, 144, 171, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 144	Buffer [-1, -1, -1, 171, -1, ]
+The buffer has 1 data now
+[producer #1] produces 166	Buffer [-1, -1, -1, 171, 166, ]
+The buffer has 2 data now
+[consumer #3] consumes 171	Buffer [-1, -1, -1, -1, 166, ]
+The buffer has 1 data now
+[producer #2] produces 30	Buffer [30, -1, -1, -1, 166, ]
+The buffer has 2 data now
+[producer #4] produces 143	Buffer [30, 143, -1, -1, 166, ]
+The buffer has 3 data now
+[producer #3] produces 48	Buffer [30, 143, 48, -1, 166, ]
+The buffer has 4 data now
+[producer #0] produces 12	Buffer [30, 143, 48, 12, 166, ]
+The buffer has 5 data now
+[consumer #3] consumes 166	Buffer [30, 143, 48, 12, -1, ]
+The buffer has 4 data now
+[consumer #0] consumes 30	Buffer [-1, 143, 48, 12, -1, ]
+The buffer has 3 data now
+[producer #3] produces 139	Buffer [-1, 143, 48, 12, 139, ]
+The buffer has 4 data now
+[producer #1] produces 181	Buffer [181, 143, 48, 12, 139, ]
+The buffer has 5 data now
+[consumer #2] consumes 143	Buffer [181, -1, 48, 12, 139, ]
+The buffer has 4 data now
+[consumer #1] consumes 48	Buffer [181, -1, -1, 12, 139, ]
+The buffer has 3 data now
+[producer #4] produces 80	Buffer [181, 80, -1, 12, 139, ]
+The buffer has 4 data now
+[consumer #3] consumes 12	Buffer [181, 80, -1, -1, 139, ]
+The buffer has 3 data now
+[consumer #4] consumes 139	Buffer [181, 80, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #0] produces 43	Buffer [181, 80, 43, -1, -1, ]
+The buffer has 3 data now
+[producer #2] produces 248	Buffer [181, 80, 43, 248, -1, ]
+The buffer has 4 data now
+[consumer #2] consumes 181	Buffer [-1, 80, 43, 248, -1, ]
+The buffer has 3 data now
+[producer #3] produces 13	Buffer [-1, 80, 43, 248, 13, ]
+The buffer has 4 data now
+[producer #2] produces 59	Buffer [59, 80, 43, 248, 13, ]
+The buffer has 5 data now
+[consumer #0] consumes 80	Buffer [59, -1, 43, 248, 13, ]
+The buffer has 4 data now
+[producer #0] produces 203	Buffer [59, 203, 43, 248, 13, ]
+The buffer has 5 data now
+[consumer #4] consumes 43	Buffer [59, 203, -1, 248, 13, ]
+The buffer has 4 data now
+[consumer #3] consumes 248	Buffer [59, 203, -1, -1, 13, ]
+The buffer has 3 data now
+[consumer #2] consumes 13	Buffer [59, 203, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 195	Buffer [59, 203, 195, -1, -1, ]
+The buffer has 3 data now
+[producer #1] produces 6	Buffer [59, 203, 195, 6, -1, ]
+The buffer has 4 data now
+[consumer #1] consumes 59	Buffer [-1, 203, 195, 6, -1, ]
+The buffer has 3 data now
+[producer #3] produces 22	Buffer [-1, 203, 195, 6, 22, ]
+The buffer has 4 data now
+[producer #4] produces 135	Buffer [135, 203, 195, 6, 22, ]
+The buffer has 5 data now
+[consumer #0] consumes 203	Buffer [135, -1, 195, 6, 22, ]
+The buffer has 4 data now
+[consumer #3] consumes 195	Buffer [135, -1, -1, 6, 22, ]
+The buffer has 3 data now
+[producer #4] produces 218	Buffer [135, 218, -1, 6, 22, ]
+The buffer has 4 data now
+[producer #1] produces 71	Buffer [135, 218, 71, 6, 22, ]
+The buffer has 5 data now
+[consumer #2] consumes 6	Buffer [135, 218, 71, -1, 22, ]
+The buffer has 4 data now
+[consumer #1] consumes 22	Buffer [135, 218, 71, -1, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 135	Buffer [-1, 218, 71, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 141	Buffer [-1, 218, 71, 141, -1, ]
+The buffer has 3 data now
+[producer #0] produces 227	Buffer [-1, 218, 71, 141, 227, ]
+The buffer has 4 data now
+[consumer #3] consumes 218	Buffer [-1, -1, 71, 141, 227, ]
+The buffer has 3 data now
+[consumer #4] consumes 71	Buffer [-1, -1, -1, 141, 227, ]
+The buffer has 2 data now
+[producer #3] produces 41	Buffer [41, -1, -1, 141, 227, ]
+The buffer has 3 data now
+[consumer #2] consumes 141	Buffer [41, -1, -1, -1, 227, ]
+The buffer has 2 data now
+[producer #2] produces 57	Buffer [41, 57, -1, -1, 227, ]
+The buffer has 3 data now
+[consumer #0] consumes 227	Buffer [41, 57, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 41	Buffer [-1, 57, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 61	Buffer [-1, 57, 61, -1, -1, ]
+The buffer has 2 data now
+[producer #1] produces 159	Buffer [-1, 57, 61, 159, -1, ]
+The buffer has 3 data now
+[consumer #4] consumes 57	Buffer [-1, -1, 61, 159, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 61	Buffer [-1, -1, -1, 159, -1, ]
+The buffer has 1 data now
+[producer #0] produces 205	Buffer [-1, -1, -1, 159, 205, ]
+The buffer has 2 data now
+[producer #3] produces 2	Buffer [2, -1, -1, 159, 205, ]
+The buffer has 3 data now
+[consumer #0] consumes 159	Buffer [2, -1, -1, -1, 205, ]
+The buffer has 2 data now
+[producer #4] produces 180	Buffer [2, 180, -1, -1, 205, ]
+The buffer has 3 data now
+[producer #0] produces 254	Buffer [2, 180, 254, -1, 205, ]
+The buffer has 4 data now
+[consumer #2] consumes 205	Buffer [2, 180, 254, -1, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 2	Buffer [-1, 180, 254, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 147	Buffer [-1, 180, 254, 147, -1, ]
+The buffer has 3 data now
+[producer #1] produces 224	Buffer [-1, 180, 254, 147, 224, ]
+The buffer has 4 data now
+[consumer #1] consumes 180	Buffer [-1, -1, 254, 147, 224, ]
+The buffer has 3 data now
+[producer #2] produces 38	Buffer [38, -1, 254, 147, 224, ]
+The buffer has 4 data now
+[consumer #4] consumes 254	Buffer [38, -1, -1, 147, 224, ]
+The buffer has 3 data now
+[consumer #3] consumes 147	Buffer [38, -1, -1, -1, 224, ]
+The buffer has 2 data now
+[consumer #0] consumes 224	Buffer [38, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 49	Buffer [38, 49, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #3] consumes 38	Buffer [-1, 49, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 49	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 112	Buffer [-1, -1, 112, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 86	Buffer [-1, -1, 112, 86, -1, ]
+The buffer has 2 data now
+[consumer #1] consumes 112	Buffer [-1, -1, -1, 86, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 86	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 61	Buffer [-1, -1, -1, -1, 61, ]
+The buffer has 1 data now
+[consumer #4] consumes 61	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 124	Buffer [124, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 139	Buffer [124, 139, -1, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 13	Buffer [124, 139, 13, -1, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 124	Buffer [-1, 139, 13, -1, -1, ]
+The buffer has 2 data now
+[producer #4] produces 39	Buffer [-1, 139, 13, 39, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 139	Buffer [-1, -1, 13, 39, -1, ]
+The buffer has 2 data now
+[producer #2] produces 5	Buffer [-1, -1, 13, 39, 5, ]
+The buffer has 3 data now
+[consumer #4] consumes 13	Buffer [-1, -1, -1, 39, 5, ]
+The buffer has 2 data now
+[producer #4] produces 27	Buffer [27, -1, -1, 39, 5, ]
+The buffer has 3 data now
+[consumer #1] consumes 39	Buffer [27, -1, -1, -1, 5, ]
+The buffer has 2 data now
+[consumer #2] consumes 5	Buffer [27, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 27	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 98	Buffer [-1, 98, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #0] produces 208	Buffer [-1, 98, 208, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 98	Buffer [-1, -1, 208, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 208	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 94	Buffer [-1, -1, -1, 94, -1, ]
+The buffer has 1 data now
+[producer #4] produces 231	Buffer [-1, -1, -1, 94, 231, ]
+The buffer has 2 data now
+[producer #2] produces 231	Buffer [231, -1, -1, 94, 231, ]
+The buffer has 3 data now
+[consumer #4] consumes 94	Buffer [231, -1, -1, -1, 231, ]
+The buffer has 2 data now
+[consumer #3] consumes 231	Buffer [231, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 231	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 101	Buffer [-1, 101, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 101	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 66	Buffer [-1, -1, 66, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 66	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 174	Buffer [-1, -1, -1, 174, -1, ]
+The buffer has 1 data now
+[consumer #3] consumes 174	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 114	Buffer [-1, -1, -1, -1, 114, ]
+The buffer has 1 data now
+[consumer #2] consumes 114	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 39	Buffer [39, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 39	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 215	Buffer [-1, 215, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 215	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 43	Buffer [-1, -1, 43, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 100	Buffer [-1, -1, 43, 100, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 43	Buffer [-1, -1, -1, 100, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 100	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 120	Buffer [-1, -1, -1, -1, 120, ]
+The buffer has 1 data now
+[producer #2] produces 248	Buffer [248, -1, -1, -1, 120, ]
+The buffer has 2 data now
+[consumer #4] consumes 120	Buffer [248, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 248	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 102	Buffer [-1, 102, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #4] produces 172	Buffer [-1, 102, 172, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 120	Buffer [-1, 102, 172, 120, -1, ]
+The buffer has 3 data now
+[consumer #0] consumes 102	Buffer [-1, -1, 172, 120, -1, ]
+The buffer has 2 data now
+[consumer #2] consumes 172	Buffer [-1, -1, -1, 120, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 120	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 121	Buffer [-1, -1, -1, -1, 121, ]
+The buffer has 1 data now
+[consumer #0] consumes 121	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 141	Buffer [141, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 141	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 158	Buffer [-1, 158, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 170	Buffer [-1, 158, 170, -1, -1, ]
+The buffer has 2 data now
+[producer #2] produces 126	Buffer [-1, 158, 170, 126, -1, ]
+The buffer has 3 data now
+[consumer #2] consumes 158	Buffer [-1, -1, 170, 126, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 170	Buffer [-1, -1, -1, 126, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 126	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #0] produces 244	Buffer [-1, -1, -1, -1, 244, ]
+The buffer has 1 data now
+[consumer #2] consumes 244	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 103	Buffer [103, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 103	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 250	Buffer [-1, 250, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 250	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 1	Buffer [-1, -1, 1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 1	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 117	Buffer [-1, -1, -1, 117, -1, ]
+The buffer has 1 data now
+[producer #4] produces 34	Buffer [-1, -1, -1, 117, 34, ]
+The buffer has 2 data now
+[consumer #2] consumes 117	Buffer [-1, -1, -1, -1, 34, ]
+The buffer has 1 data now
+[consumer #1] consumes 34	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 6	Buffer [6, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 6	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 16	Buffer [-1, 16, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #1] consumes 16	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 4	Buffer [-1, -1, 4, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 4	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 86	Buffer [-1, -1, -1, 86, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 86	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #4] produces 237	Buffer [-1, -1, -1, -1, 237, ]
+The buffer has 1 data now
+[consumer #0] consumes 237	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 235	Buffer [235, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 189	Buffer [235, 189, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 235	Buffer [-1, 189, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 189	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 210	Buffer [-1, -1, 210, -1, -1, ]
+The buffer has 1 data now
+[producer #2] produces 47	Buffer [-1, -1, 210, 47, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 210	Buffer [-1, -1, -1, 47, -1, ]
+The buffer has 1 data now
+[consumer #2] consumes 47	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 235	Buffer [-1, -1, -1, -1, 235, ]
+The buffer has 1 data now
+[producer #1] produces 69	Buffer [69, -1, -1, -1, 235, ]
+The buffer has 2 data now
+[consumer #4] consumes 235	Buffer [69, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 69	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 213	Buffer [-1, 213, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 196	Buffer [-1, 213, 196, -1, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 213	Buffer [-1, -1, 196, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 196	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 113	Buffer [-1, -1, -1, 113, -1, ]
+The buffer has 1 data now
+[producer #1] produces 58	Buffer [-1, -1, -1, 113, 58, ]
+The buffer has 2 data now
+[consumer #0] consumes 113	Buffer [-1, -1, -1, -1, 58, ]
+The buffer has 1 data now
+[consumer #4] consumes 58	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 188	Buffer [188, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 106	Buffer [188, 106, -1, -1, -1, ]
+The buffer has 2 data now
+[consumer #0] consumes 188	Buffer [-1, 106, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 106	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #2] produces 32	Buffer [-1, -1, 32, -1, -1, ]
+The buffer has 1 data now
+[producer #1] produces 105	Buffer [-1, -1, 32, 105, -1, ]
+The buffer has 2 data now
+[consumer #4] consumes 32	Buffer [-1, -1, -1, 105, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 105	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 98	Buffer [-1, -1, -1, -1, 98, ]
+The buffer has 1 data now
+[consumer #4] consumes 98	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 154	Buffer [154, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #0] consumes 154	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 247	Buffer [-1, 247, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 247	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 1	Buffer [-1, -1, 1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 1	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 196	Buffer [-1, -1, -1, 196, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 196	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 245	Buffer [-1, -1, -1, -1, 245, ]
+The buffer has 1 data now
+[consumer #4] consumes 245	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 118	Buffer [118, -1, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 118	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 45	Buffer [-1, 45, -1, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 45	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 240	Buffer [-1, -1, 240, -1, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 240	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 119	Buffer [-1, -1, -1, 119, -1, ]
+The buffer has 1 data now
+[consumer #4] consumes 119	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
+[producer #1] produces 162	Buffer [-1, -1, -1, -1, 162, ]
+The buffer has 1 data now
+[consumer #4] consumes 162	Buffer [-1, -1, -1, -1, -1, ]
+The buffer has 0 data now
